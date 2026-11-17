@@ -17,7 +17,7 @@ R_z,Inspector-hours for waiver vetting,0.05 x 395 h/day x zone weight; swept 0.5
 d_m,Screening delay (days),"{'none': 0.0, 'reg': 0.25, 'doc': 1.0, 'docp': 1.5, 'ex': 3.0, 'den': 1.0}","Assumption: registry 6 h, documentary 24 h, examination 72 h; doc+ interpolated",D
 h_m,Inspector-hours per screening,"{'none': 0.0, 'reg': 0.5, 'doc': 4.0, 'docp': 8.0, 'ex': 16.0, 'den': 4.0}",assumption (2 officers x 8 h per exam),D
 eps_res,"Residual unscreened share by mode (crew, own, cond)","{'none': (1.0, 1.0, 1.0), 'reg': (0.7, 0.6, 0.5), 'doc': (0.3, 0.3, 0.6), 'docp': (0.15, 0.1, 0.5), 'ex': (0.1, 0.3, 0.1), 'den': (0.0, 0.0, 0.0)}",logic table,D
-eps_base,"Group baseline risk (crew, own, cond)","{'G': (0.8, 0.2, 0.3), 'AT': (1.0, 0.3, 1.0), 'AN': (1.0, 0.3, 1.0), 'UG': (0.8, 0.2, 0.3), 'R': (1.0, 1.0, 1.0)}",cond anchored on PSIX deficiencies per exam 0.13 vs 0.44,C/D
+eps_base,"Group baseline risk (crew, own, cond), lifetime-weighted mean of vessel-level baselines","{'G': (0.8, 0.2, 0.3), 'AT': (1.0, 0.3, 1.44), 'AN': (1.0, 0.3, 0.92), 'UG': (1.0, 0.3, 0.92), 'R': (1.0, 1.0, 1.03)}","crew/own from flag and ownership classification; cond from each vessel's empirical-Bayes PSIX deficiency rate rescaled to the flag-based mean (deviation log, gates.md); UG inherits AN",C/D
 valid,Amber clearance validity (days),30.0,Assumption: 30-day review cycle,D
 d_var,VAR window (days),"1 (+ DoW decision time 0-7, swept)",CBP CSMS #69519766: 24 h market survey,A (lower bound)
 pen,Backlog penalties,"USD 60 per t-day x priority; terminal USD 6,000 per t x priority",Assumption: backlog cost dominates freight cost,D

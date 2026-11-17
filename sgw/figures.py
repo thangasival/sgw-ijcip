@@ -55,7 +55,7 @@ def f1_schematic():
     fig,ax=plt.subplots(figsize=(W2,128*MM)); ax.set_xlim(0,100); ax.set_ylim(-4.5,64); ax.axis("off")
     LS=2.25
     def lane(y0,h,fc,ec,lab,col):
-        ax.add_patch(FancyBboxPatch((0.5,y0),99,h,boxstyle="round,pad=0,rounding_size=0.8",fc=fc,ec=ec,lw=0.6))
+        ax.add_patch(FancyBboxPatch((0.5,y0),99,h,boxstyle="round,pad=0,rounding_size=0.8",fc="none",ec=ec,lw=0.6))  # no lane tint (IJCIP revision)
         ax.text(1.5,y0+h-1.0,lab,fontsize=6.8,fontweight="bold",color=col,va="top")
     def box(x,y,w,h,lines,ec,fc,dashed=False):
         ax.add_patch(FancyBboxPatch((x,y),w,h,boxstyle="round,pad=0,rounding_size=0.9",fc=fc,ec=ec,lw=1.0,ls=(0,(4,2.5)) if dashed else "-"))
@@ -125,7 +125,7 @@ def f2_calibration():
     ax.scatter(rc.observed_kt / 1e3, y, s=22, color=COL["obs"], label="Observed (register)", zorder=3)
     ax.scatter(rc.model_R2_kt / 1e3, y, s=22, facecolor="white", edgecolor=COL["DTV"], lw=1.2, label="Model (initial design)", zorder=3)
     ax.set_yticks(y); ax.set_yticklabels([names[i] for i in rc.index]); ax.set_xlabel("Waiver lift, 17 Mar-31 Jul 2026 (Mt)")
-    ax.set_title("Route totals match except Gulf-East, served domestically first"); ax.legend(loc="center right", bbox_to_anchor=(1.0, 0.36)); ax.margins(x=0.06, y=0.08)
+    ax.set_title("Most route totals match; Gulf-East goes domestic first"); ax.legend(loc="center right", bbox_to_anchor=(1.0, 0.36)); ax.margins(x=0.06, y=0.08)
     _letter(ax, "a", dx=-0.32)
     ax = axs[1]; x = np.arange(len(mt))
     ax.plot(x, mt.obs / 1e3, "-o", color=COL["obs"], ms=3.5, lw=1.2, label="Observed")
@@ -178,7 +178,7 @@ def f3_comparison():
     ax.set_ylabel("Vetting-attributable backlog (kt-days)")
     ax.set_title("Tighter caps raise backlog for every design (central case)")
     _letter(ax, "b", dx=-0.17)
-    _save(fig, "F3_comparison")
+    _save(fig, "F4_comparison")
 
 
 # ---------------------------------------------------------------- F4 vetting bottleneck (H1)
@@ -190,7 +190,11 @@ def f4_bottleneck():
     ax.barh(y + 0.18, tz["DTV cap0.4"], height=0.34, color=COL["DTV"], label="DTV, cap 0.4")
     ax.barh(y - 0.18, tz["R4-T uncapped"], height=0.34, color=COL["R4-T"], label="R4-T (no cap)")
     ax.set_yticks(y); ax.set_yticklabels([z if z != "Other" else "Other U.S. zones" for z in tz.zone]); ax.set_xlabel("Mean shadow price of an inspector-hour\n(USD million per inspector-hour)")
-    ax.set_title("Inspector-hours are scarce on the Texas coast"); ax.legend(loc="lower right"); ax.margins(x=0.05)
+    ax.margins(x=0.05)
+    # penalty-free equivalent: USD million / (USD 60 per t-day) -> priority-weighted kt-days per inspector-hour
+    sec = ax.secondary_xaxis("top", functions=(lambda x: x * 1e6 / 60 / 1e3, lambda k: k * 60 * 1e3 / 1e6))
+    sec.set_xlabel("Equivalent, priority-weighted kt-days per inspector-hour", fontsize=6.5, labelpad=2); sec.tick_params(labelsize=6.5, pad=1)
+    ax.set_title("Inspector-hours are scarce on the Texas coast", pad=24); ax.legend(loc="lower right")
     _letter(ax, "a", dx=-0.45)
     ax = axs[1]
     for d, lab in [("B3", "B3"), ("B3h", "B3-hybrid"), ("B4", "B4"), ("DTV", "DTV")]:
@@ -207,7 +211,7 @@ def f4_bottleneck():
     ax.set_xlabel("Redeployable share of national PSC inspector-hours (%)"); ax.set_ylabel("Vetting-attributable backlog (kt-days)")
     ax.set_title("Backlog rises steeply once screening load exceeds capacity")
     _letter(ax, "b", dx=-0.16)
-    _save(fig, "F4_bottleneck")
+    _save(fig, "F3_bottleneck")
 
 
 # ---------------------------------------------------------------- F5 Env-S region map (synthetic)
@@ -233,7 +237,7 @@ def f5_envS():
     fig.text(0.0, 1.0, "Env-S (synthetic stress test)", fontsize=7, color="#555555", va="bottom")
     for ax, l in zip(axs, "abc"):
         _letter(ax, l, dx=-0.08 if l != "a" else -0.30)
-    _save(fig, "F5_envS_regions")
+    _save(fig, "F6_envS_regions")
 
 
 # ---------------------------------------------------------------- F6 mode map (P2)
@@ -262,7 +266,7 @@ def f6_modes():
     ax.set_yticks(range(3)); ax.set_yticklabels(["Green", "Amber, triggered", "Amber, other"])
     ax.set_title("Examination moves down the risk groups as protection tightens")
     ax.text(0, -0.75 + 3.95, "* P2 pricing rule disagrees with enumeration", fontsize=6, color="#d95f02", va="top", transform=ax.transData)
-    _save(fig, "F6_mode_map")
+    _save(fig, "F5_mode_map")
 
 
 def all_figures():

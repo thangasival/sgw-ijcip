@@ -28,7 +28,8 @@ if __name__ == "__main__":
         step(t.name, [str(t)])
     step("recompute gate G2 from run records", ["scripts/summarise_runs.py"])
     step("figures", ["-c", "import sys; sys.path.insert(0, '.'); from sgw import figures; figures.all_figures()"])
-    step("manuscript", ["manuscript/build_manuscript.py"])
+    if (ROOT / "manuscript" / "build_manuscript.py").exists():   # manuscript source is optional in the public package
+        step("manuscript", ["manuscript/build_manuscript.py"])
     if "--rerun" in sys.argv:
         rerun()
     print("run_all: all steps completed")
