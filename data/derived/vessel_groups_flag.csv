@@ -1,0 +1,219 @@
+vessel,group,vclass,zone,first_day,last_day,voyages,lifetime
+pacdubhe,G,tank,Lower Mississippi,2,2,1,6
+eternity,AN,tank,Lower Mississippi,9,77,2,110
+tormagnete,G,tank,Atlantic-Caribbean,10,10,1,6
+stimystery,G,tank,Lower Mississippi,10,10,1,54
+chrysopigilady,G,tank,Corpus Christi,11,11,1,6
+clearoceanginkgo,G,tank,Houston-Galveston,11,11,1,42
+pelicanpacific,G,tank,Houston-Galveston,16,16,1,42
+dion,G,tank,Pacific,17,106,4,95
+solarclaire,G,tank,Corpus Christi,17,19,2,44
+garnetexpress,G,tank,Pacific,18,43,3,79
+tormdaphne,G,tank,Houston-Galveston,20,20,1,54
+htmwarrior,G,tank,Sabine-Lake Charles,20,122,2,108
+grandlamda,G,tank,Houston-Galveston,20,20,1,12
+stenaimperator,G,tank,Pacific,20,81,2,103
+pheasant,G,tank,Houston-Galveston,22,22,1,6
+sombeke,G,gas,Lower Mississippi,22,143,2,127
+clearoceanmesquite,AN,tank,Houston-Galveston,22,22,1,42
+tripiti,AN,tank,Houston-Galveston,24,24,1,42
+hafniaviolette,G,tank,Corpus Christi,24,24,1,42
+highleader,AT,tank,Houston-Galveston,27,27,1,52
+harrisburg,G,tank,Pacific,27,153,3,168
+cabodeseado,G,tank,Pacific,27,42,3,21
+hafniacrux,G,tank,Sabine-Lake Charles,29,29,1,16
+chemtransmobile,G,tank,Pacific,29,29,1,6
+pacificblue,AN,tank,Houston-Galveston,29,29,1,42
+velocity,AN,tank,Sabine-Lake Charles,35,91,2,98
+clipperposhactive,G,gas,Houston-Galveston,35,35,1,16
+trouvaille,AT,tank,Houston-Galveston,35,105,2,82
+nordicami,AN,tank,Houston-Galveston,37,45,2,14
+navevelocity,G,tank,Houston-Galveston,39,39,1,42
+damingshan,R,tank,Lower Mississippi,39,54,2,27
+advantageportocervo,R,tank,Houston-Galveston,39,39,1,6
+naveperseus,AN,tank,Pacific,39,52,2,19
+antalya,G,tank,Atlantic-Caribbean,41,57,2,28
+ontario,AT,gas,Lower Mississippi,41,49,2,14
+stiregina,G,tank,Pacific,42,42,1,54
+seawayskolberg,G,tank,Houston-Galveston,42,42,1,6
+energycentaur,G,tank,Lower Mississippi,42,42,1,42
+pegasusvoyager,G,tank,Atlantic-Caribbean,43,43,1,6
+polarisvoyager,G,tank,Lower Mississippi,43,43,1,6
+pascagoulavoyager,G,tank,Atlantic-Caribbean,43,43,1,6
+redmoon,AN,tank,Lower Mississippi,43,43,1,6
+silvereuplicta,G,tank,Lower Mississippi,44,44,1,16
+seawaysriogrande,G,tank,Houston-Galveston,44,44,1,12
+hafniahawk,G,tank,Pacific,44,44,1,6
+frontaltair,G,tank,Sabine-Lake Charles,44,44,1,12
+mtmkeywest,G,tank,Pacific,45,45,1,6
+alejandrob,AN,tank,Houston-Galveston,45,45,1,6
+pyxistheta,G,tank,Sabine-Lake Charles,46,71,2,37
+wecosenna,G,tank,Corpus Christi,47,47,1,16
+preciousadelaide,AN,tank,Houston-Galveston,48,48,1,42
+solarsally,R,tank,Lower Mississippi,48,48,1,42
+petrelpacific,G,tank,Houston-Galveston,48,48,1,42
+pacifickohinoor,AN,tank,Lower Mississippi,49,49,1,42
+aspsunshine,AT,tank,Houston-Galveston,50,50,1,16
+steel,G,tank,Atlantic-Caribbean,52,52,1,12
+dominatorlmvactive,AT,gas,Houston-Galveston,53,53,1,6
+sflsabine,G,tank,Sabine-Lake Charles,53,107,3,66
+topocean,AT,tank,Lower Mississippi,53,53,1,16
+oinoussianstar,G,tank,Houston-Galveston,54,54,1,42
+fourwind,G,tank,Houston-Galveston,54,113,4,71
+atlanticmarble,G,tank,Sabine-Lake Charles,54,96,3,84
+tormdiana,G,tank,Houston-Galveston,54,54,1,42
+hafniaandrea,G,tank,Houston-Galveston,55,55,1,12
+datvenus,R,tank,Corpus Christi,56,56,1,12
+seawayssamar,G,tank,Houston-Galveston,56,56,1,42
+stimillennia,G,tank,Atlantic-Caribbean,56,91,2,41
+scottnuernberg,G,tank,Atlantic-Caribbean,57,57,1,6
+isladebioko,AN,tank,Houston-Galveston,57,57,1,42
+indianapolismvactive,AT,gas,Atlantic-Caribbean,59,59,1,6
+margaretmitchell,R,tank,Houston-Galveston,59,59,1,12
+stipontiac,G,tank,Houston-Galveston,60,60,1,6
+foreverprosperity,R,tank,Lower Mississippi,60,60,1,42
+goldengatepark,AN,tank,Houston-Galveston,60,60,1,6
+rawan,G,tank,Houston-Galveston,61,61,1,12
+aspmaple,AN,tank,Houston-Galveston,61,61,1,42
+yokosukaspirit,AN,tank,Atlantic-Caribbean,61,61,1,12
+ionicastrapi,G,tank,Sabine-Lake Charles,61,126,4,77
+sfltrinity,G,tank,Houston-Galveston,61,114,3,65
+ecomarinadelrey,G,tank,Sabine-Lake Charles,61,61,1,16
+hafniadaisy,G,tank,Houston-Galveston,62,62,1,12
+mindorostar,G,tank,Atlantic-Caribbean,62,62,1,16
+pacificera,AT,tank,Corpus Christi,62,62,1,16
+advantageportofino,R,tank,Sabine-Lake Charles,63,63,1,6
+nordelegance,AN,tank,Lower Mississippi,65,65,1,6
+hafniakallang,G,tank,Sabine-Lake Charles,66,66,1,6
+jinzhouwan,R,tank,Lower Mississippi,66,105,2,45
+mosselbay,G,tank,Sabine-Lake Charles,68,68,1,42
+tormalexandra,G,tank,Lower Mississippi,68,68,1,16
+anatolia,AN,tank,Corpus Christi,68,68,1,42
+naveluminosity,AN,tank,Houston-Galveston,71,71,1,42
+atlanticrosa,G,tank,Houston-Galveston,71,71,1,42
+eaglehamilton,G,tank,Pacific,72,72,1,6
+searhythm,G,tank,Houston-Galveston,72,101,2,41
+navejupiter,G,tank,Houston-Galveston,72,98,2,42
+orvisviktoria,AT,tank,Atlantic-Caribbean,72,72,1,16
+nakhalsilver,G,tank,Pacific,72,142,3,112
+stenaimage,G,tank,Houston-Galveston,73,73,1,16
+yukon,AT,gas,Houston-Galveston,74,87,2,19
+naviggladiator,G,tank,Sabine-Lake Charles,76,76,1,16
+pyxislamda,G,tank,Sabine-Lake Charles,76,123,2,59
+naviggrace,G,tank,Corpus Christi,77,88,2,27
+uogkorthi,G,tank,Houston-Galveston,77,77,1,12
+silverjoan,G,tank,Houston-Galveston,78,78,1,42
+aegeanc,AN,tank,Lower Mississippi,78,78,1,6
+mustang,AN,tank,Corpus Christi,78,78,1,12
+arcticstar,G,tank,Sabine-Lake Charles,79,127,2,60
+seavictory,G,tank,Lower Mississippi,79,79,1,16
+puffinpacific,G,tank,Houston-Galveston,79,79,2,42
+nordvision,G,tank,Houston-Galveston,79,79,1,12
+bowerikson,AN,tank,Houston-Galveston,80,80,1,6
+amazonfalcon,G,tank,Houston-Galveston,80,80,1,6
+tristarjisha,AN,tank,Lower Mississippi,80,134,2,66
+chip,R,tank,Atlantic-Caribbean,81,125,5,50
+tablebay,G,tank,Houston-Galveston,81,81,1,42
+riofyn,AT,gas,Atlantic-Caribbean,81,81,1,6
+atlanticrainbow,G,tank,Atlantic-Caribbean,82,82,1,6
+stenheim,AN,tank,Atlantic-Caribbean,82,147,2,71
+solartime,AT,tank,Lower Mississippi,82,82,1,16
+clearoceanfuku,G,tank,Houston-Galveston,82,82,1,42
+capportarthur,G,tank,Houston-Galveston,83,83,1,6
+obsidian,G,tank,Lower Mississippi,84,84,1,6
+gulfmuttrah,G,tank,Lower Mississippi,84,84,1,42
+capebenateaglehamilton,G,tank,Corpus Christi,84,84,1,42
+ploutos,G,tank,Pacific,84,84,1,12
+silvermuna,G,tank,Houston-Galveston,85,85,1,42
+lavraki,G,tank,Lower Mississippi,85,85,1,42
+silvermoon,G,tank,Houston-Galveston,86,86,1,12
+vspromise,G,tank,Houston-Galveston,88,88,1,42
+penelope,G,tank,Sabine-Lake Charles,88,145,2,63
+seasprite,G,tank,Houston-Galveston,88,88,1,6
+chemlithium,AN,tank,Pacific,89,146,6,63
+jagaanchal,G,tank,Houston-Galveston,91,91,1,42
+pintailpacific,G,tank,Houston-Galveston,92,92,1,42
+newability,AN,tank,Atlantic-Caribbean,92,92,1,12
+ithacagas,AT,gas,Houston-Galveston,93,93,1,6
+portamalfi,G,tank,Houston-Galveston,94,103,2,25
+hafniaasia,G,tank,Lower Mississippi,95,95,1,42
+dancingbrave,G,gas,Atlantic-Caribbean,95,95,1,16
+ipanemastreet,AN,tank,Houston-Galveston,97,97,1,42
+pmearl,G,tank,Lower Mississippi,99,99,1,16
+citrine,G,tank,Houston-Galveston,99,99,1,16
+greenplanet,AT,tank,Lower Mississippi,100,100,1,16
+outrider,AT,gas,Atlantic-Caribbean,100,100,1,12
+thechief,G,tank,Atlantic-Caribbean,101,101,1,12
+datmercury,G,tank,Lower Mississippi,101,101,1,42
+silverebalina,G,tank,Lower Mississippi,102,102,1,16
+hovdenspirit,G,tank,Lower Mississippi,102,102,1,6
+tormagnes,G,tank,Houston-Galveston,103,103,1,12
+energyartemis,G,tank,Corpus Christi,104,104,1,16
+tomdiwata,G,tank,Houston-Galveston,104,104,1,42
+uogioannisv,G,tank,Atlantic-Caribbean,105,105,1,16
+doriccourage,AN,tank,Houston-Galveston,105,105,1,42
+gemturquois,G,tank,Lower Mississippi,105,105,1,12
+hellasmarianna,G,tank,Houston-Galveston,105,105,1,6
+silverzoe,G,tank,Corpus Christi,106,106,1,16
+freeportstar,G,tank,Sabine-Lake Charles,107,107,1,12
+energyariadne,G,tank,Sabine-Lake Charles,108,108,1,42
+yamatospirit,G,tank,Lower Mississippi,108,108,1,6
+solomos,G,tank,Pacific,109,109,1,6
+queenzenobia,AT,gas,Atlantic-Caribbean,110,110,1,16
+hightrust,AN,tank,Corpus Christi,111,111,1,42
+rebeccaschulte,G,tank,Lower Mississippi,113,113,1,42
+frankopan,AN,tank,Lower Mississippi,115,148,2,39
+mvmosselbay,G,tank,Houston-Galveston,115,115,1,42
+rustaqsilver,G,tank,Lower Mississippi,116,116,1,16
+octonaut,G,tank,Houston-Galveston,117,117,1,12
+archangelgabriel,AN,tank,Sabine-Lake Charles,117,117,1,12
+zealilian,AN,tank,Atlantic-Caribbean,117,117,1,6
+mtmdublin,G,tank,Lower Mississippi,119,119,1,6
+bantrabay,G,tank,Corpus Christi,121,121,1,42
+bowelm,G,tank,Houston-Galveston,121,121,2,16
+greenenergy,G,gas,Sabine-Lake Charles,122,137,3,21
+dubaidiamond,G,tank,Atlantic-Caribbean,122,122,1,16
+pmarseille,G,tank,Sabine-Lake Charles,124,124,1,6
+navecetus,AN,tank,Houston-Galveston,124,124,1,12
+kingfisher,G,tank,Lower Mississippi,125,125,1,16
+dahuashan,G,tank,Lower Mississippi,126,126,1,16
+gemturquoise,G,tank,Houston-Galveston,127,127,1,12
+sunda,G,tank,Atlantic-Caribbean,128,128,1,12
+ecojoshuapark,G,tank,Lower Mississippi,129,129,1,16
+aqualegend,AN,tank,Corpus Christi,129,137,2,20
+hafniaegret,G,tank,Lower Mississippi,130,130,1,42
+montetamaro,AT,tank,Atlantic-Caribbean,130,147,2,29
+phaedra,G,tank,Sabine-Lake Charles,132,132,1,12
+ikigai,AT,tank,Lower Mississippi,133,133,1,16
+tormstrong,G,tank,Houston-Galveston,133,133,1,42
+cetustiger,G,tank,Atlantic-Caribbean,134,134,1,12
+champagny,G,gas,Atlantic-Caribbean,135,135,1,6
+marlinaventurine,G,tank,Houston-Galveston,135,135,1,16
+cech,G,tank,Houston-Galveston,136,136,1,12
+seychellespatriot,AN,tank,Corpus Christi,136,136,1,42
+deejuniper,AN,tank,Corpus Christi,137,137,1,12
+skylight,G,tank,Corpus Christi,139,139,1,12
+bluesky,AN,tank,Houston-Galveston,140,140,1,6
+orangestars,G,tank,Houston-Galveston,140,140,1,6
+csfujairah,G,tank,Corpus Christi,143,143,1,42
+solarmelissa,AN,tank,Houston-Galveston,143,143,1,12
+ecomargaronne,G,tank,Sabine-Lake Charles,144,144,1,16
+wecomemphisbelle,G,tank,Lower Mississippi,145,145,1,16
+anael,AN,tank,Pacific,145,145,1,12
+sapphire,G,tank,Pacific,145,145,1,12
+kodkod,AN,tank,Lower Mississippi,145,145,1,42
+scotbayern,G,tank,Atlantic-Caribbean,147,147,1,6
+jaldhvani,G,tank,Sabine-Lake Charles,147,147,1,12
+clemilybronte,AN,tank,Sabine-Lake Charles,147,147,1,12
+silvereburna,G,tank,Corpus Christi,148,148,1,16
+pysixtheta,G,tank,Sabine-Lake Charles,148,148,1,12
+marinam,G,tank,Lower Mississippi,149,149,1,42
+vallesole,G,tank,Sabine-Lake Charles,150,150,1,16
+tormhilde,G,tank,Houston-Galveston,150,150,1,6
+solarruoyun,AT,tank,Lower Mississippi,150,150,1,16
+globefrontier,AT,gas,Sabine-Lake Charles,150,150,1,6
+stenaimperial,G,tank,Corpus Christi,151,151,1,6
+echojoshuapark,G,tank,Sabine-Lake Charles,151,151,1,16
+amasya,G,tank,Sabine-Lake Charles,153,153,1,16
+silvermonika,G,tank,Sabine-Lake Charles,153,153,1,42
+gousea,G,tank,Corpus Christi,153,153,1,42

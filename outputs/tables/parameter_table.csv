@@ -1,0 +1,23 @@
+symbol,parameter,value,source,grade
+q_West,"West emergency requirement, 17 Mar-31 Jul",28.3 Mbbl (range 18.8-34.8),"PADD 5 foreign-import shortfall vs counterfactual, mean of 4 interrupted time-series specifications [EIA]",B
+q_other,"Other routes, 17 Mar-16 Aug",observed waiver volumes by route-month (282 voyages + 7 identified unreported),"MARAD 501(c) register, 9 Oct 2026; Cato update 9 Oct 2026",A/C (lower bound)
+q_ext,Requirement 17 Aug-15 Nov,initial-period mean daily volume by route and class,assumption: 'had the initial design continued',D
+A_gt,Waiver-vessel arrivals,"218 vessels by first load day, group, class, zone; extension: initial-period arrival rate",register; flag tier (USCG 2025 lists); ownership names (MARAD register 30 Jun),A/D
+groups,Risk groups (flag tier),"{'G': 149, 'AN': 40, 'AT': 20, 'R': 9}",G = QUALSHIP 21; AT = non-QS21 & (gas or kappa=1); AN = other non-QS21; R = name-evident PRC-linked owner/manager,A/D
+lifetime,Mean availability in the waiver trade (days),"{'G': np.float64(28.6), 'AT': np.float64(19.1), 'AN': np.float64(31.1), 'UG': np.float64(31.1), 'R': np.float64(26.9)}",register: last - first load + round trip,B
+kbar,Lift per vessel (kt),tank 39.5; gas 21.3,register parcels,A
+parcel,Mean parcel by class (kt),"{'refined': np.float64(33.3), 'crude': np.float64(66.7), 'gas': np.float64(21.3)}",register,A
+transit,Transit days,"{'West': 20, 'GulfEast': 5, 'PR': 7, 'HI': 25, 'AK': 26, 'Intra': 2}","Mainland routes: typical voyage durations (West 20, Gulf-East 5, intra-Gulf 2 days); island routes from sea distance at 12 kn plus 3 days canal and port time",B/D
+kappa,Terminal-consequence weight,"{'West': 0.8, 'GulfEast': 0.8, 'PR': 1.0, 'HI': 1.0, 'AK': 1.0, 'Intra': 0.6} (+0.2 gas, cap 1)","Terminal classification by 2025 foreign receipts (single supply 1.0, refining hub 0.8, other 0.6; +0.2 gas)",D
+omega,Continuity priority,"{'West': 0.8, 'GulfEast': 0.3, 'PR': 1.0, 'HI': 1.0, 'AK': 1.0, 'Intra': 0.2}","Essential-service ordering: single-supply regions first, low-ESB routes last",D
+H_j,Unloading proxy (kt/day),"[154.5, 176.7, 16.3, 19.5, 7.6, 228.9]","max monthly 2025 foreign petroleum receipts, EIA company-level imports",B (upper bound)
+s_dom,Domestic spot share of Jones Act tanker DWT,0.05 of 2158 kt (45 non-ANS tankers); swept 0-0.15,MARAD fleet 4 Apr 2026; tug-barges not included,D
+m,Cost multipliers,"domestic 1.9; waiver 1.3 (high-ESB), 2.0 (low-ESB, right of first refusal)",Ordering assumption (waiver dearer than domestic on low-ESB routes),D
+R_z,Inspector-hours for waiver vetting,0.05 x 395 h/day x zone weight; swept 0.5-20%,"USCG PSC 2025: 8,999 exams/yr; 16 h per exam; zone weights from 2025 foreign petroleum receipts",B/D
+d_m,Screening delay (days),"{'none': 0.0, 'reg': 0.25, 'doc': 1.0, 'docp': 1.5, 'ex': 3.0, 'den': 1.0}","Assumption: registry 6 h, documentary 24 h, examination 72 h; doc+ interpolated",D
+h_m,Inspector-hours per screening,"{'none': 0.0, 'reg': 0.5, 'doc': 4.0, 'docp': 8.0, 'ex': 16.0, 'den': 4.0}",assumption (2 officers x 8 h per exam),D
+eps_res,"Residual unscreened share by mode (crew, own, cond)","{'none': (1.0, 1.0, 1.0), 'reg': (0.7, 0.6, 0.5), 'doc': (0.3, 0.3, 0.6), 'docp': (0.15, 0.1, 0.5), 'ex': (0.1, 0.3, 0.1), 'den': (0.0, 0.0, 0.0)}",logic table,D
+eps_base,"Group baseline risk (crew, own, cond)","{'G': (0.8, 0.2, 0.3), 'AT': (1.0, 0.3, 1.0), 'AN': (1.0, 0.3, 1.0), 'UG': (0.8, 0.2, 0.3), 'R': (1.0, 1.0, 1.0)}",cond anchored on PSIX deficiencies per exam 0.13 vs 0.44,C/D
+valid,Amber clearance validity (days),30.0,Assumption: 30-day review cycle,D
+d_var,VAR window (days),"1 (+ DoW decision time 0-7, swept)",CBP CSMS #69519766: 24 h market survey,A (lower bound)
+pen,Backlog penalties,"USD 60 per t-day x priority; terminal USD 6,000 per t x priority",Assumption: backlog cost dominates freight cost,D

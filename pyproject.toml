@@ -1,0 +1,18 @@
+[project]
+name = "sgw-ijcip"
+version = "0.1.0"
+description = "Security-gated waiver capacity model (SG-WCM) with dynamic tiered vetting: replication code"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy==2.4.6",
+  "pandas==2.3.3",
+  "scipy==1.17.1",
+  "highspy==1.16.0",
+  "statsmodels==0.15.0",
+  "SALib==1.6.0",
+  "scikit-learn==1.9.1",
+  "openpyxl==3.1.5",
+  "xlrd==2.0.2",
+  "matplotlib==3.11.2",
+]
+# Python used for the reported results: 3.11.16

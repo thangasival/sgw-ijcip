@@ -1,0 +1,283 @@
+vessel,load,dest,cls,bbl,flag_tier,origin,gas_vessel,source,kt,day,zone
+tormagnete,2026-03-26,Intra,refined,317178.0,QUALSHIP 21,"Carteret, New Jersey",False,panel,43.27121418826739,10,Atlantic-Caribbean
+stenaimperator,2026-04-05,Intra,refined,247812.0,QUALSHIP 21,"Ferndale, Washington",False,panel,33.807912687585265,20,Pacific
+garnetexpress,2026-04-03,Intra,refined,298968.1,QUALSHIP 21,"Anacortes, Washington",False,panel,40.7869167803547,18,Pacific
+pheasant,2026-04-07,Intra,refined,134970.71,QUALSHIP 21,"Galveston, Texas",False,panel,18.41346657571623,22,Houston-Galveston
+dion,2026-04-02,Intra,refined,157791.0,QUALSHIP 21,"Cherry Point, Washington",False,panel,21.526739427012277,17,Pacific
+grandlamda,2026-04-05,GulfEast,refined,200294.46,QUALSHIP 21,"Pasadena, Texas",False,panel,27.325301500682126,20,Houston-Galveston
+sombeke,2026-04-07,Intra,gas,,QUALSHIP 21,"Donaldsonville, Louisiana",True,panel,25.39925,22,Lower Mississippi
+htmwarrior,2026-04-05,GulfEast,crude,299942.8,QUALSHIP 21,"Beaumont, Texas",False,panel,40.91989085948158,20,Sabine-Lake Charles
+clearoceanginkgo,2026-03-27,West,refined,317488.0,QUALSHIP 21,"Houston, Texas",False,panel,43.31350613915416,11,Houston-Galveston
+chemtransmobile,2026-04-14,Intra,refined,120428.44,QUALSHIP 21,"Martinez, California",False,panel,16.429527967257844,29,Pacific
+cabodeseado,2026-04-12,Intra,refined,250384.732,QUALSHIP 21,"Martinez, California",False,panel,34.15889931787176,27,Pacific
+eternity,2026-03-25,West,refined,317576.6,Targeted (medium),"New Orleans, Louisiana",False,panel,43.32559345156889,9,Lower Mississippi
+garnetexpress,2026-04-15,Intra,refined,299029.86,QUALSHIP 21,"Anacortes, Washington",False,panel,40.795342428376536,30,Pacific
+cabodeseado,2026-04-18,Intra,crude,249952.262,QUALSHIP 21,"Long Beach, California / Los Angeles, California",False,panel,34.09989931787176,33,Pacific
+hafniacrux,2026-04-14,PR,refined,149406.62,QUALSHIP 21,"Lake Charles, Louisiana",False,panel,20.38289495225102,29,Sabine-Lake Charles
+dion,2026-04-22,Intra,refined,,QUALSHIP 21,"Cherry Point, Washington",False,panel,37.61476057298772,37,Pacific
+pelicanpacific,2026-04-01,West,refined,,QUALSHIP 21,"Houston, Texas",False,panel,37.61476057298772,16,Houston-Galveston
+nordicami,2026-04-22,Intra,refined,74882.03,Targeted (medium),"Galveston, Texas",False,panel,10.215829467939972,37,Houston-Galveston
+chrysopigilady,2026-03-27,Intra,refined,,QUALSHIP 21,"Corpus Christi, Texas",False,panel,37.61476057298772,11,Corpus Christi
+stimystery,2026-03-26,AK,refined,307571.11,QUALSHIP 21,"Garyville, Louisiana",False,panel,41.96058799454297,10,Lower Mississippi
+clearoceanmesquite,2026-04-07,West,refined,324512.53,Targeted (medium),"Houston, Texas",False,panel,44.27183219645294,22,Houston-Galveston
+trouvaille,2026-04-20,PR,refined,69896.228,Targeted (medium),"Houston, Texas",False,panel,9.535638199181447,35,Houston-Galveston
+ontario,2026-04-26,GulfEast,gas,,Targeted (medium),"Donaldsonville, Louisiana",True,panel,24.899606,41,Lower Mississippi
+solarclaire,2026-04-02,West,refined,265255.0,QUALSHIP 21,"Corpus Christi, Texas",False,panel,36.18758526603001,17,Corpus Christi
+solarclaire,2026-04-04,West,refined,57627.0,QUALSHIP 21,"Port Arthur, Texas",False,panel,7.861800818553888,19,Sabine-Lake Charles
+tormdaphne,2026-04-05,AK,refined,309558.93,QUALSHIP 21,"Pasadena, Texas",False,panel,42.231777626193725,20,Houston-Galveston
+nordicami,2026-04-30,Intra,refined,75140.85,Targeted (medium),"Galveston, Texas",False,panel,10.251139154160983,45,Houston-Galveston
+mtmkeywest,2026-04-30,Intra,refined,198973.01,QUALSHIP 21,"San Francisco, California",False,panel,27.145021828103683,45,Pacific
+advantageportocervo,2026-04-24,Intra,refined,73502.29,QUALSHIP 21,"Galveston, Texas",False,panel,10.027597544338335,39,Houston-Galveston
+silvereuplicta,2026-04-29,PR,refined,79995.51,QUALSHIP 21,"Pascagoula, Mississippi",False,panel,10.91343929058663,44,Lower Mississippi
+hafniahawk,2026-04-29,Intra,refined,,QUALSHIP 21,"Richmond, California",False,panel,37.61476057298772,44,Pacific
+cabodeseado,2026-04-27,Intra,crude,247445.458,QUALSHIP 21,"Long Beach, California/Los Angeles, California",False,panel,33.75790695770805,42,Pacific
+antalya,2026-04-26,PR,refined,38437.13,QUALSHIP 21,"San Juan, Puerto Rico",False,panel,5.243810368349249,41,Atlantic-Caribbean
+harrisburg,2026-04-12,GulfEast,refined,50103.76,QUALSHIP 21,"El Segundo, California",False,panel,6.835437926330151,27,Pacific
+clipperposhactive,2026-04-20,PR,gas,519360.0,QUALSHIP 21,"Houston, Texas",True,panel,44.772413793103446,35,Houston-Galveston
+pyxistheta,2026-05-01,GulfEast,refined,193569.67,QUALSHIP 21,"Lake Charles, Louisiana",False,panel,26.40786766712142,46,Sabine-Lake Charles
+pacificblue,2026-04-14,West,refined,318105.13,Targeted (medium),"Houston, Texas",False,panel,43.39769849931787,29,Houston-Galveston
+garnetexpress,2026-04-28,AK,refined,227301.1,QUALSHIP 21,"Anacortes, Washington",False,panel,31.00969986357435,43,Pacific
+naveperseus,2026-05-07,Intra,refined,366918.81,Targeted (medium),"Richmond, California",False,panel,50.057136425648025,52,Pacific
+ontario,2026-05-04,Intra,gas,,Targeted (medium),"Texas City, Texas",True,panel,15.005073,49,Houston-Galveston
+tripiti,2026-04-09,West,refined,307096.3,Targeted (medium),"Pasadena, Texas",False,panel,41.89581173260572,24,Houston-Galveston
+damingshan,2026-04-24,GulfEast,refined,,QUALSHIP 21,"St. Rose, Louisiana",False,panel,37.61476057298772,39,Lower Mississippi
+frontaltair,2026-04-29,GulfEast,crude,596762.97,QUALSHIP 21,"Beaumont, Texas",False,panel,81.41377489768077,44,Sabine-Lake Charles
+aspsunshine,2026-05-05,PR,refined,84274.48,Targeted (medium),"Pasadena, Texas",False,panel,11.497200545702592,50,Houston-Galveston
+hafniaviolette,2026-04-09,West,refined,287651.0,QUALSHIP 21,"Corpus Christi, Texas",False,panel,39.24297407912688,24,Corpus Christi
+sflsabine,2026-05-08,GulfEast,crude,309444.27,QUALSHIP 21,"Beaumont, Texas",False,panel,42.21613506139154,53,Sabine-Lake Charles
+damingshan,2026-05-09,GulfEast,refined,71595.3,QUALSHIP 21,"Garyville, Louisiana",False,panel,9.767435197817191,54,Lower Mississippi
+seawaysriogrande,2026-04-29,GulfEast,crude,,QUALSHIP 21,"Houston, Texas",False,panel,68.22141609822646,44,Houston-Galveston
+stiregina,2026-04-27,AK,refined,296401.86,QUALSHIP 21,"Richmond, California",False,panel,40.43681582537517,42,Pacific
+wecosenna,2026-05-02,PR,refined,314579.46,QUALSHIP 21,"Corpus Christ, Texas",False,panel,42.916706684856756,47,Corpus Christi
+sflsabine,2026-05-15,Intra,refined,300000.0,QUALSHIP 21,"Delaware City, Delaware",False,panel,40.927694406548426,60,Atlantic-Caribbean
+scottnuernberg,2026-05-12,Intra,refined,45068.15,QUALSHIP 21,"Ft. Lauderdale, Florida",False,panel,6.148451568894952,57,Atlantic-Caribbean
+navevelocity,2026-04-24,West,refined,318033.19,QUALSHIP 21,"Houston, Texas",False,panel,43.38788403819918,39,Houston-Galveston
+atlanticmarble,2026-05-09,Intra,refined,208975.27,QUALSHIP 21,"Lake Charles, Louisiana",False,panel,28.509586630286492,54,Sabine-Lake Charles
+stipontiac,2026-05-15,Intra,refined,205298.0,QUALSHIP 21,"Freeport, Bahamas",False,panel,28.007912687585268,60,Houston-Galveston
+mindorostar,2026-05-17,PR,refined,149835.63,QUALSHIP 21,"Guayanilla, Puerto Rico",False,panel,20.441422919508867,62,Atlantic-Caribbean
+goldengatepark,2026-05-15,Intra,refined,134875.91,Targeted (medium),"Galveston, Texas",False,panel,18.40053342428377,60,Houston-Galveston
+topocean,2026-05-08,PR,refined,305346.84,Targeted (medium),"Garyville, Louisiana",False,panel,41.657140518417464,53,Lower Mississippi
+hafniaandrea,2026-05-10,GulfEast,refined,300326.5,QUALSHIP 21,"Texas City, Texas",False,panel,40.972237380627554,55,Houston-Galveston
+ecomarinadelrey,2026-05-16,PR,refined,202991.86,QUALSHIP 21,"Port Arthur, Texas",False,panel,27.693296043656208,61,Sabine-Lake Charles
+petrelpacific,2026-05-03,West,refined,321300.0,QUALSHIP 21,"Houston, Texas",False,panel,43.83356070941337,48,Houston-Galveston
+velocity,2026-04-20,West,refined,764.229,Targeted (medium),"New Orleans, Louisiana/Port Arthur, Texas",False,panel,37.61476057298772,35,Sabine-Lake Charles
+dominatorlmvactive,2026-05-08,Intra,gas,150767.14,Targeted (medium),"Houston, Texas",True,panel,12.99716724137931,53,Houston-Galveston
+sfltrinity,2026-05-16,GulfEast,crude,385000.0,QUALSHIP 21,"Houston, Texas",False,panel,52.52387448840382,61,Houston-Galveston
+datvenus,2026-05-11,GulfEast,refined,296899.63,QUALSHIP 21,"Corpus Christ, Texas",False,panel,40.50472442019099,56,Corpus Christi
+yokosukaspirit,2026-05-16,GulfEast,refined,194376.39,Targeted (medium),"New York, New York",False,panel,26.51792496589359,61,Atlantic-Caribbean
+highleader,2026-04-12,HI,refined,,Targeted (medium),"Houston, Texas",False,panel,37.61476057298772,27,Houston-Galveston
+fourwind,2026-05-09,GulfEast,crude,600000.0,QUALSHIP 21,"Seabrook, Texas",False,panel,81.85538881309685,54,Houston-Galveston
+solarsally,2026-05-03,West,refined,313990.7,Targeted (medium),"New Orleans, Louisiana",False,panel,42.83638472032742,48,Lower Mississippi
+alejandrob,2026-04-30,Intra,refined,313769.0,Targeted (medium),"Freeport, Bahamas",False,panel,42.80613915416099,45,Houston-Galveston
+jinzhouwan,2026-05-21,GulfEast,refined,72842.95,Targeted (medium),"Harvey, Louisiana",False,panel,9.937646657571623,66,Lower Mississippi
+antalya,2026-05-12,GulfEast,refined,324536.68,QUALSHIP 21,"Corpus Christi, Texas",False,panel,44.275126875852656,57,Corpus Christi
+redmoon,2026-04-28,Intra,crude,974000.0,Targeted (medium),"Gramercy, Louisiana, loaded for discharge",False,panel,132.87858117326059,43,Lower Mississippi
+pascagoulavoyager,2026-04-28,Intra,crude,974000.0,QUALSHIP 21,Crude Oil from mv. Red Moon-Panama Pipeline,False,panel,132.87858117326059,43,Atlantic-Caribbean
+polarisvoyager,2026-04-28,Intra,crude,974000.0,QUALSHIP 21,Crude Oil from mv. Pascagoula Voyager,False,panel,132.87858117326059,43,Lower Mississippi
+pegasusvoyager,2026-04-28,Intra,crude,974000.0,QUALSHIP 21,Pacific Area Lighterage,False,panel,132.87858117326059,43,Atlantic-Caribbean
+hafniadaisy,2026-05-17,GulfEast,refined,296627.0,QUALSHIP 21,"Pasadena, Texas",False,panel,40.467530695770805,62,Houston-Galveston
+hafniakallang,2026-05-21,Intra,crude,30032.0,QUALSHIP 21,"Nederland, Texas",False,panel,4.097135061391542,66,Sabine-Lake Charles
+oinoussianstar,2026-05-09,West,refined,306389.18,QUALSHIP 21,"Houston, Texas",False,panel,41.799342428376534,54,Houston-Galveston
+tormdiana,2026-05-09,West,refined,312.0,QUALSHIP 21,"Houston, Texas",False,panel,37.61476057298772,54,Houston-Galveston
+nakhalsilver,2026-05-27,Intra,refined,148500.0,QUALSHIP 21,"San Francisco, California",False,panel,20.259208731241472,72,Pacific
+preciousadelaide,2026-05-03,West,refined,324280.67,Targeted (medium),"Houston, Texas",False,panel,44.240200545702585,48,Houston-Galveston
+ionicastrapi,2026-05-16,GulfEast,crude,596000.0,QUALSHIP 21,"Nederland, Texas",False,panel,81.30968622100954,61,Sabine-Lake Charles
+advantageportofino,2026-05-18,Intra,crude,280382.74,QUALSHIP 21,"Nederland, Texas",False,panel,38.25139699863574,63,Sabine-Lake Charles
+margaretmitchell,2026-05-14,GulfEast,refined,312918.16,Targeted (medium),"Houston, Texas",False,panel,42.69006275579808,59,Houston-Galveston
+indianapolismvactive,2026-05-14,Intra,gas,132000.0,Targeted (medium),"Marcus Hook, Pennsylvania",True,panel,11.379310344827587,59,Atlantic-Caribbean
+pacifickohinoor,2026-05-04,West,refined,311808.79,Targeted (medium),"Baton Rouge, Louisiana",False,panel,42.538716234652114,49,Lower Mississippi
+energycentaur,2026-04-27,West,refined,300121.0,QUALSHIP 21,"New Orleans, Louisiana/Baton Rouge, Louisiana",False,panel,40.94420190995907,42,Lower Mississippi
+rawan,2026-05-16,GulfEast,refined,364115.29,QUALSHIP 21,"Houston, Texas",False,panel,49.67466439290586,61,Houston-Galveston
+pacificera,2026-05-17,PR,refined,311186.13,Targeted (medium),"Corpus Christi, Texas",False,panel,42.45376944065484,62,Corpus Christi
+uogkorthi,2026-06-01,GulfEast,refined,98338.7,QUALSHIP 21,"Galveston, Texas",False,panel,13.415920873124147,77,Houston-Galveston
+navejupiter,2026-05-27,GulfEast,refined,308000.0,QUALSHIP 21,"Freeport, Texas",False,panel,42.01909959072305,72,Houston-Galveston
+atlanticmarble,2026-05-29,GulfEast,refined,314230.0,QUALSHIP 21,"Houston, Texas",False,panel,42.86903137789905,74,Houston-Galveston
+naviggrace,2026-06-01,Intra,refined,323928.0,QUALSHIP 21,"Corpus Christi, Texas",False,panel,44.192087312414735,77,Corpus Christi
+eaglehamilton,2026-05-27,Intra,crude,153863.0,QUALSHIP 21,"Martinez, California",False,panel,20.99085948158254,72,Pacific
+searhythm,2026-05-27,GulfEast,crude,700000.0,QUALSHIP 21,"Seabrook, Texas",False,panel,95.49795361527967,72,Houston-Galveston
+fourwind,2026-06-04,Intra,crude,350000.0,QUALSHIP 21,"Delaware City, Delaware",False,panel,47.748976807639835,80,Atlantic-Caribbean
+yukon,2026-05-29,Intra,gas,,Targeted (medium),"Texas City, Texas",True,panel,25.175974,74,Houston-Galveston
+isladebioko,2026-05-12,West,crude,326225.62,Targeted (medium),"Houston, Texas",False,panel,44.50554160982265,57,Houston-Galveston
+pyxistheta,2026-05-26,GulfEast,refined,99878.3,QUALSHIP 21,"Corpus Christi, Texas",False,panel,13.625961800818553,71,Corpus Christi
+seavictory,2026-06-03,PR,refined,30054.47,QUALSHIP 21,"St. Croix, U.S. Virgin Islands",False,panel,4.1002005457025925,79,Lower Mississippi
+orvisviktoria,2026-05-27,PR,refined,69948.86,Targeted (medium),"Savannah, Georgia",False,panel,9.542818553888132,72,Atlantic-Caribbean
+stenheim,2026-06-06,Intra,refined,40706.3,Targeted (medium),"Toledo, Ohio",False,panel,5.553383356070942,82,Atlantic-Caribbean
+arcticstar,2026-06-03,GulfEast,crude,319205.05,QUALSHIP 21,"Beaumont, Texas",False,panel,43.54775579809004,79,Sabine-Lake Charles
+stimillennia,2026-05-11,West,refined,264346.356,QUALSHIP 21,Linden New Jersey,False,panel,36.06362291950887,56,Atlantic-Caribbean
+harrisburg,2026-05-13,West,refined,513467.25,QUALSHIP 21,"Baton Rouge, Louisiana",False,panel,70.05010231923602,58,Lower Mississippi
+aspmaple,2026-05-16,West,refined,310878.529,Targeted (medium),"Houston, Texas",False,panel,42.411804774897675,61,Houston-Galveston
+naviggladiator,2026-05-31,PR,refined,311460.87,QUALSHIP 21,"Port Arthur, Texas",False,panel,42.49125102319236,76,Sabine-Lake Charles
+amazonfalcon,2026-06-04,Intra,crude,500062.98,QUALSHIP 21,"Texas City, Texas",False,panel,68.22141609822646,80,Houston-Galveston
+chip,2026-06-05,GulfEast,crude,116187.9,QUALSHIP 21,"Tampa, Florida",False,panel,15.85100954979536,81,Atlantic-Caribbean
+pyxislamda,2026-05-31,PR,refined,99878.3,QUALSHIP 21,"Lake Charles, Louisiana",False,panel,13.625961800818553,76,Sabine-Lake Charles
+seawayssamar,2026-05-11,West,refined,355000.0,QUALSHIP 21,"Houston, Texas",False,panel,48.43110504774898,56,Houston-Galveston
+stenaimage,2026-05-28,PR,refined,34981.89,QUALSHIP 21,"Houston, Texas",False,panel,4.772427012278309,73,Houston-Galveston
+tristarjisha,2026-06-04,Intra,refined,123251.51,Targeted (medium),"Chalmette, Louisiana",False,panel,16.814667121418825,80,Lower Mississippi
+seasprite,2026-06-12,Intra,crude,450023.37,QUALSHIP 21,"Texas City, Texas",False,panel,61.39472987721692,88,Houston-Galveston
+foreverprosperity,2026-05-15,West,refined,211168.0,QUALSHIP 21,"New Orleans, Louisiana",False,panel,28.808731241473396,60,Lower Mississippi
+solartime,2026-06-06,PR,refined,244293.5,Targeted (medium),"Garyville, Louisiana",False,panel,33.327899045020466,82,Lower Mississippi
+aegeanc,2026-06-02,Intra,refined,320551.0,Targeted (medium),"New Orleans, Louisiana/Baton Rouge, Louisiana",False,panel,43.73137789904502,78,Lower Mississippi
+chemlithium,2026-06-13,Intra,refined,135000.0,Targeted (medium),"San Francisco, California",False,panel,18.417462482946792,89,Pacific
+mosselbay,2026-05-23,West,refined,253247.0,QUALSHIP 21,"Port Arthur, Texas",False,panel,34.5493860845839,68,Sabine-Lake Charles
+yukon,2026-06-11,Intra,gas,,Targeted (medium),"Geismar, Louisiana",True,panel,6.000277,87,Lower Mississippi
+mustang,2026-06-02,GulfEast,refined,284667.63,Targeted (medium),"Corpus Christi, Texas",False,panel,38.83596589358799,78,Corpus Christi
+anatolia,2026-05-23,West,refined,315751.0,Targeted (medium),"Corpus Christi, Texas",False,panel,43.07653478854024,68,Corpus Christi
+atlanticrainbow,2026-06-06,Intra,refined,312000.0,QUALSHIP 21,"Offshore, Bahamas",False,panel,42.56480218281037,82,Atlantic-Caribbean
+dion,2026-05-06,Intra,refined,317407.45,QUALSHIP 21,"Cherry Point, Washington",False,panel,43.30251705320601,51,Pacific
+obsidian,2026-06-08,Intra,refined,146429.0,QUALSHIP 21,"New Orleans, Louisiana",False,panel,19.97667121418827,84,Lower Mississippi
+penelope,2026-06-12,GulfEast,crude,299908.1,QUALSHIP 21,"Beaumont, Texas",False,panel,40.91515688949522,88,Sabine-Lake Charles
+nordvision,2026-06-03,GulfEast,refined,199230.0,QUALSHIP 21,"Houston, Texas",False,panel,27.180081855388813,79,Houston-Galveston
+stimillennia,2026-06-15,Intra,refined,250000.0,QUALSHIP 21,"Richmond, California",False,panel,34.106412005457024,91,Pacific
+chemlithium,2026-06-22,Intra,refined,134993.13,Targeted (medium),"San Francisco, California",False,panel,18.416525238744885,98,Pacific
+riofyn,2026-06-05,Intra,gas,,Targeted (medium),"San Juan, Puerto Rico",True,panel,24.006292000000002,81,Atlantic-Caribbean
+nakhalsilver,2026-05-27,GulfEast,refined,110140.59,QUALSHIP 21,"Long Beach, California",False,panel,15.026001364256478,72,Pacific
+sfltrinity,2026-06-18,GulfEast,crude,595524.21,QUALSHIP 21,"Beaumont, Texas/Houston, Texas",False,panel,81.24477626193723,94,Sabine-Lake Charles
+greenplanet,2026-06-24,PR,refined,45080.93,Targeted (medium),"St. Croix, U.S. Virgin Islands",False,panel,6.1501950886766705,100,Lower Mississippi
+capportarthur,2026-06-07,Intra,crude,476572.0,QUALSHIP 21,"Texas City, Texas",False,panel,65.01664392905866,83,Houston-Galveston
+puffinpacific,2026-06-03,West,refined,50091.41,QUALSHIP 21,"Houston, Texas",False,panel,6.833753069577081,79,Houston-Galveston
+jinzhouwan,2026-06-29,Intra,refined,,Targeted (medium),"Paulsboro, New Jersey",False,panel,37.61476057298772,105,Atlantic-Caribbean
+eternity,2026-06-01,West,refined,,Targeted (medium),"Corpus Christi, Texas",False,panel,37.61476057298772,77,Corpus Christi
+silverjoan,2026-06-02,West,refined,300693.2,QUALSHIP 21,"Deer Park, Texas",False,panel,41.02226466575716,78,Houston-Galveston
+silvermoon,2026-06-10,GulfEast,refined,300100.0,QUALSHIP 21,"Houston, Texas",False,panel,40.94133697135061,86,Houston-Galveston
+dion,2026-06-30,Intra,refined,12000.0,QUALSHIP 21,"Cherry Point, Washington",False,panel,1.6371077762619373,106,Pacific
+portamalfi,2026-06-18,PR,refined,141746.96,QUALSHIP 21,"Houston, Texas",False,panel,19.337920873124144,94,Houston-Galveston
+sflsabine,2026-07-01,GulfEast,crude,600000.0,QUALSHIP 21,"Beaumont, Texas",False,panel,81.85538881309685,107,Sabine-Lake Charles
+hovdenspirit,2026-06-26,Intra,refined,499863.59,QUALSHIP 21,"Morgan City, Louisiana",False,panel,68.19421418826741,102,Lower Mississippi
+yamatospirit,2026-07-02,Intra,refined,516951.0,QUALSHIP 21,"Morgan City, Louisiana",False,panel,70.52537517053206,108,Lower Mississippi
+outrider,2026-06-24,GulfEast,gas,,Targeted (medium),"Morehead City, North Carolina",True,panel,31.95,100,Atlantic-Caribbean
+citrine,2026-06-23,PR,refined,290096.75,QUALSHIP 21,"Galveston, Texas",False,panel,39.57663710777626,99,Houston-Galveston
+chip,2026-06-25,Intra,crude,249997.9,QUALSHIP 21,"Nederland, Texas",False,panel,34.106125511596176,101,Sabine-Lake Charles
+bowerikson,2026-06-04,Intra,refined,49902.49,Targeted (medium),"Galveston, Texas",False,panel,6.807979536152796,80,Houston-Galveston
+chemlithium,2026-06-30,Intra,refined,135000.0,Targeted (medium),"Rodeo, California",False,panel,18.417462482946792,106,Pacific
+searhythm,2026-06-25,GulfEast,crude,706650.63,QUALSHIP 21,"Baytown, Texas",False,panel,96.40527012278308,101,Houston-Galveston
+portamalfi,2026-06-27,PR,refined,107693.25,QUALSHIP 21,"Guayanilla, Puerto Rico",False,panel,14.692121418826739,103,Atlantic-Caribbean
+gulfmuttrah,2026-06-08,West,refined,318331.0,QUALSHIP 21,"New Orleans, Louisiana",False,panel,43.428512960436564,84,Lower Mississippi
+tomdiwata,2026-06-28,West,refined,295804.31,QUALSHIP 21,"Houston, Texas",False,panel,40.35529467939973,104,Houston-Galveston
+silvermuna,2026-06-09,West,refined,122337.7,QUALSHIP 21,"Houston, Texas",False,panel,16.69,85,Houston-Galveston
+silverebalina,2026-06-26,PR,refined,300347.95,QUALSHIP 21,"Garyville, Louisiana",False,panel,40.97516371077763,102,Lower Mississippi
+fourwind,2026-06-18,GulfEast,crude,350000.0,QUALSHIP 21,"Seabrook, Texas",False,panel,47.748976807639835,94,Houston-Galveston
+ionicastrapi,2026-06-25,Intra,crude,400000.0,QUALSHIP 21,"Offshore, Cape Henlopen, Delaware",False,panel,54.570259208731244,101,Atlantic-Caribbean
+navejupiter,2026-06-22,PR,refined,30086.37,QUALSHIP 21,"New Orleans, Louisiana",False,panel,4.104552523874489,98,Lower Mississippi
+tormagnes,2026-06-27,GulfEast,refined,300528.74,QUALSHIP 21,"Houston, Texas",False,panel,40.99982810368349,103,Houston-Galveston
+vspromise,2026-06-12,West,refined,330000.0,QUALSHIP 21,"Houston, Texas",False,panel,45.020463847203274,88,Houston-Galveston
+freeportstar,2026-07-01,GulfEast,crude,602000.0,QUALSHIP 21,"Beaumont, Texas",False,panel,82.12824010914052,107,Sabine-Lake Charles
+gemturquois,2026-06-29,GulfEast,refined,252000.0,QUALSHIP 21,"New Orleans, Louisiana",False,panel,34.37926330150068,105,Lower Mississippi
+velocity,2026-06-15,West,refined,309464.0,Targeted (medium),"Corpus Christi, Texas",False,panel,42.218826739427016,91,Corpus Christi
+silverzoe,2026-06-30,PR,refined,159778.87,QUALSHIP 21,"Corpus Christi, Texas",False,panel,21.797935879945427,106,Corpus Christi
+frankopan,2026-07-09,Intra,refined,545000.0,Not listed,"Morgan City, Louisiana",False,panel,74.35197817189632,115,Lower Mississippi
+clearoceanfuku,2026-06-06,West,refined,340000.0,QUALSHIP 21,"Houston, Texas",False,panel,46.384720327421554,82,Houston-Galveston
+ithacagas,2026-06-17,Intra,gas,132041.15,Targeted (medium),"Houston, Texas",True,panel,11.38285775862069,93,Houston-Galveston
+queenzenobia,2026-07-04,PR,gas,132041.15,Targeted (medium),"San Pedro de Macoris, Dominican Republic",True,panel,11.38285775862069,110,Atlantic-Caribbean
+thechief,2026-06-25,GulfEast,refined,77845.73,QUALSHIP 21,"Paulsboro, New Jersey",False,panel,10.620154160982263,101,Atlantic-Caribbean
+atlanticmarble,2026-06-20,West,refined,2098150.32,QUALSHIP 21,"Houston, Texas",False,panel,286.241517053206,96,Houston-Galveston
+energyartemis,2026-06-28,PR,refined,309547.0,QUALSHIP 21,"Corpus Christi, Texas",False,panel,42.23015006821282,104,Corpus Christi
+ipanemastreet,2026-06-21,West,refined,316261.66,Targeted (medium),"Houston, Texas",False,panel,43.14620190995907,97,Houston-Galveston
+doriccourage,2026-06-29,West,refined,324333.88,Targeted (medium),"Houston, Texas",False,panel,44.247459754433834,105,Houston-Galveston
+uogioannisv,2026-06-29,PR,refined,234061.0,QUALSHIP 21,"Bayonne, New Jersey",False,panel,31.931923601637106,105,Atlantic-Caribbean
+octonaut,2026-07-11,GulfEast,refined,120704.84,QUALSHIP 21,"Galveston, Texas",False,panel,16.467236016371075,117,Houston-Galveston
+mtmdublin,2026-07-13,Intra,refined,228532.0,QUALSHIP 21,"New Orleans, Louisiana",False,panel,31.17762619372442,119,Lower Mississippi
+lavraki,2026-06-09,West,refined,123049.99,QUALSHIP 21,"St. Rose, Louisiana",False,panel,16.78717462482947,85,Lower Mississippi
+sfltrinity,2026-07-08,GulfEast,refined,,QUALSHIP 21,"Beaumont, Texas/Nederland, Texas",False,panel,37.61476057298772,114,Sabine-Lake Charles
+chip,2026-07-12,Intra,crude,222352.6,QUALSHIP 21,"St. James, Louisiana",False,panel,30.334597544338337,118,Lower Mississippi
+greenenergy,2026-07-16,Intra,gas,,QUALSHIP 21,"Beaumont, Texas",True,panel,24.006292000000002,122,Sabine-Lake Charles
+puffinpacific,2026-06-03,West,refined,201233.64,QUALSHIP 21,"Houston, Texas",False,panel,27.45342974079127,79,Houston-Galveston
+hellasmarianna,2026-06-29,Intra,refined,276924.24,QUALSHIP 21,"Galveston, Texas",False,panel,37.77956889495225,105,Houston-Galveston
+dubaidiamond,2026-07-16,PR,refined,179682.52,QUALSHIP 21,"Bayonne, New Jersey",False,panel,24.51330422919509,122,Atlantic-Caribbean
+pyxislamda,2026-07-17,GulfEast,refined,170000.0,QUALSHIP 21,"Lake Charles, Louisiana",False,panel,23.192360163710777,123,Sabine-Lake Charles
+kingfisher,2026-07-19,PR,refined,12127.53,QUALSHIP 21,"St. Croix, U.S. Virgin Islands",False,panel,1.6545061391541611,125,Lower Mississippi
+bowelm,2026-07-15,PR,refined,200000.0,QUALSHIP 21,"Texas City, Texas",False,panel,27.285129604365622,121,Houston-Galveston
+atlanticrosa,2026-05-26,West,refined,327071.0,QUALSHIP 21,"Houston, Texas",False,panel,44.62087312414734,71,Houston-Galveston
+htmwarrior,2026-07-16,Intra,refined,309632.75,QUALSHIP 21,"Houston, Texas",False,panel,42.241848567530695,122,Houston-Galveston
+aqualegend,2026-07-23,Intra,crude,629186.38,Targeted (medium),"Corpus Christi, Texas",False,panel,85.83715961800819,129,Corpus Christi
+rustaqsilver,2026-07-10,PR,refined,300067.1,QUALSHIP 21,"Garyville, Louisiana",False,panel,40.936848567530696,116,Lower Mississippi
+navecetus,2026-07-18,GulfEast,refined,330000.0,Targeted (medium),"La Porte, Texas/Houston, Texas",False,panel,45.020463847203274,124,Houston-Galveston
+ionicastrapi,2026-07-04,Intra,crude,350000.0,QUALSHIP 21,"Seabrook, Texas via Cape Henlopen, Delaware",False,panel,47.748976807639835,110,Houston-Galveston
+fourwind,2026-07-07,GulfEast,crude,700000.0,QUALSHIP 21,"Seabrook, Texas",False,panel,95.49795361527967,113,Houston-Galveston
+archangelgabriel,2026-07-11,GulfEast,crude,594000.0,Targeted (medium),"Beaumont, Texas/Nederland, Texas",False,panel,81.03683492496589,117,Sabine-Lake Charles
+datmercury,2026-06-25,West,refined,312972.142,QUALSHIP 21,"St. Rose, Louisiana",False,panel,42.697427285129606,101,Lower Mississippi
+chip,2026-07-19,Intra,crude,237806.37,QUALSHIP 21,"St. James, Louisiana",False,panel,32.44288813096862,125,Lower Mississippi
+hightrust,2026-07-05,West,refined,304483.0,Targeted (medium),"Corpus Christi, Texas",False,panel,41.53929058663028,111,Corpus Christi
+arcticstar,2026-07-21,GulfEast,crude,600436.75,QUALSHIP 21,"Beaumont, Texas",False,panel,81.9149727148704,127,Sabine-Lake Charles
+greenenergy,2026-07-22,Intra,gas,,QUALSHIP 21,"Texas City, Texas",True,panel,26.503409,128,Houston-Galveston
+zealilian,2026-07-11,Intra,refined,75583.71,Targeted (medium),"Brownsville, Texas",False,panel,10.31155661664393,117,Atlantic-Caribbean
+ecojoshuapark,2026-07-23,PR,refined,307519.69,QUALSHIP 21,"Garyville, Louisiana",False,panel,41.95357298772169,129,Lower Mississippi
+energyariadne,2026-07-02,West,refined,306835.0,QUALSHIP 21,"New Orleans, Louisiana/Port Arthur, Texas",False,panel,41.86016371077763,108,Sabine-Lake Charles
+chemlithium,2026-07-29,Intra,refined,131010.2,Targeted (medium),"Rodeo, California",False,panel,17.873151432469307,135,Pacific
+champagny,2026-07-29,Intra,gas,313230.14,QUALSHIP 21,"Marcus Hook, Pennsylvania",True,panel,27.00259827586207,135,Atlantic-Caribbean
+chip,2026-06-16,Intra,crude,249748.31,QUALSHIP 21,"St. James, Louisiana",False,panel,34.07207503410641,92,Lower Mississippi
+montetamaro,2026-07-24,PR,refined,319974.62,Targeted (medium),"Bayonne, New Jersey/Philadelphia, Pennsylvania",False,panel,43.6527448840382,130,Atlantic-Caribbean
+pmarseille,2026-07-18,Intra,crude,309174.23,QUALSHIP 21,"New Orleans, Louisiana/Beaumont, Texas",False,panel,42.179294679399725,124,Sabine-Lake Charles
+gemturquoise,2026-07-21,GulfEast,refined,323721.66,QUALSHIP 21,"Houston, Texas",False,panel,44.16393724420191,127,Houston-Galveston
+phaedra,2026-07-26,GulfEast,crude,606442.4,QUALSHIP 21,"Nederland, Texas/Beaumont, Texas",False,panel,82.73429740791269,132,Sabine-Lake Charles
+cetustiger,2026-07-28,GulfEast,refined,,QUALSHIP 21,"Norfolk, Virginia",False,panel,37.61476057298772,134,Atlantic-Caribbean
+scotbayern,2026-08-10,Intra,refined,51133.59,QUALSHIP 21,"Ft. Lauderdale, Florida",False,panel,6.975933151432469,147,Atlantic-Caribbean
+penelope,2026-08-08,Intra,crude,599434.53,QUALSHIP 21,"Freeport, Texas",False,panel,81.77824420190997,145,Houston-Galveston
+chemlithium,2026-08-09,Intra,refined,131121.23,Targeted (medium),"Rodeo, California",False,panel,17.88829877216917,146,Pacific
+bantrabay,2026-07-15,West,refined,,QUALSHIP 21,"Corpus Christi, Texas",False,panel,37.61476057298772,121,Corpus Christi
+bluesky,2026-08-03,Intra,crude,,Targeted (medium),"Freeport, Texas",False,panel,68.22141609822646,140,Houston-Galveston
+bowelm,2026-07-15,Intra,refined,,QUALSHIP 21,"Texas City, Texas",False,panel,37.61476057298772,121,Houston-Galveston
+pysixtheta,2026-08-11,GulfEast,refined,156783.45,QUALSHIP 21,"Lake Charles, Louisiana",False,panel,21.389283765347887,148,Sabine-Lake Charles
+aqualegend,2026-07-31,GulfEast,crude,608513.97,Targeted (medium),"Nederland, Texas/Beaumont, Texas",False,panel,83.01691268758526,137,Sabine-Lake Charles
+skylight,2026-08-02,GulfEast,refined,380541.0,QUALSHIP 21,"Corpus Christi, Texas",False,panel,51.91555252387449,139,Corpus Christi
+greenenergy,2026-07-31,Intra,gas,,QUALSHIP 21,"Texas City, Texas",True,panel,24.006292000000002,137,Houston-Galveston
+deejuniper,2026-07-31,GulfEast,refined,274508.15,Targeted (medium),"Corpus Christi, Texas",False,panel,37.4499522510232,137,Corpus Christi
+stenheim,2026-08-10,Intra,refined,80034.67,Targeted (medium),"Toledo, Ohio",False,panel,10.918781718963164,147,Atlantic-Caribbean
+orangestars,2026-08-03,Intra,crude,618746.95,QUALSHIP 21,"Freeport, Texas",False,panel,84.41295361527966,140,Houston-Galveston
+marlinaventurine,2026-07-29,PR,refined,300360.16,QUALSHIP 21,"Houston, Texas",False,panel,40.97682946793997,135,Houston-Galveston
+seychellespatriot,2026-07-30,West,refined,294719.0,Not listed,"Corpus Christi, Texas",False,panel,40.207230559345156,136,Corpus Christi
+hafniaegret,2026-07-24,West,refined,315635.0,QUALSHIP 21,"New Orleans, Louisiana",False,panel,43.06070941336971,130,Lower Mississippi
+frankopan,2026-08-11,Intra,crude,618427.46,Not listed,"Freeport, Texas",False,panel,84.36936698499318,148,Houston-Galveston
+ecomargaronne,2026-08-07,PR,refined,34988.86,QUALSHIP 21,"Port Arthur, Texas",False,panel,4.77337789904502,144,Sabine-Lake Charles
+echojoshuapark,2026-08-14,PR,refined,298878.13,QUALSHIP 21,"Port Arthur, Texas",False,panel,40.774642564802186,151,Sabine-Lake Charles
+vallesole,2026-08-13,PR,refined,69996.64,QUALSHIP 21,"Lake Charles, Louisiana via St. Croix, U.S. Virgin Islands",False,panel,9.549336971350614,150,Sabine-Lake Charles
+solarmelissa,2026-08-06,GulfEast,refined,323317.06,Targeted (medium),"Houston, Texas",False,panel,44.108739427012274,143,Houston-Galveston
+solarruoyun,2026-08-13,PR,refined,300071.65,Targeted (medium),"Garyville, Louisiana",False,panel,40.9374693042292,150,Lower Mississippi
+tormhilde,2026-08-13,Intra,crude,627662.35,QUALSHIP 21,"Freeport, Texas",False,panel,85.62924283765348,150,Houston-Galveston
+silvereburna,2026-08-11,PR,refined,50120.47,QUALSHIP 21,"Corpus Christi, Texas",False,panel,6.837717598908594,148,Corpus Christi
+jaldhvani,2026-08-10,GulfEast,refined,301192.78,QUALSHIP 21,"Port Arthur, Texas",False,panel,41.09042019099591,147,Sabine-Lake Charles
+amasya,2026-08-16,PR,refined,290105.42,QUALSHIP 21,"Beaumont, Texas",False,panel,39.57781991814461,153,Sabine-Lake Charles
+kodkod,2026-08-08,West,refined,320013.0,Targeted (medium),"Baton Rouge, Louisiana",False,panel,43.65798090040928,145,Lower Mississippi
+wecomemphisbelle,2026-08-08,PR,refined,319943.29,QUALSHIP 21,"Garyville, Louisiana",False,panel,43.64847066848567,145,Lower Mississippi
+csfujairah,2026-08-06,West,refined,306707.0,QUALSHIP 21,"Corpus Christi, Texas",False,panel,41.84270122783083,143,Corpus Christi
+stenaimperial,2026-08-14,Intra,refined,,QUALSHIP 21,"Corpus Christi, Texas",False,panel,37.61476057298772,151,Corpus Christi
+nakhalsilver,2026-08-05,West,refined,311995.78,QUALSHIP 21,"Houston, Texas",False,panel,42.56422646657572,142,Houston-Galveston
+globefrontier,2026-08-13,Intra,gas,,Targeted (medium),"Nederland, Texas",True,panel,24.006292000000002,150,Sabine-Lake Charles
+naveperseus,2026-04-24,Intra,refined,237466.19,Targeted (medium),"El Segundo, California",False,panel,32.39647885402456,39,Pacific
+marinam,2026-08-12,West,refined,301803.0,QUALSHIP 21,"New Orleans, Louisiana",False,panel,41.173669849931784,149,Lower Mississippi
+anael,2026-08-08,GulfEast,refined,170266.57,Targeted (medium),"Long Beach, California/San Francisco, California",False,panel,23.228727148703957,145,Pacific
+dancingbrave,2026-06-19,PR,gas,135000.0,QUALSHIP 21,"Marcus Hook, Pennsylvania",True,later_filing,11.63793103448276,95,Atlantic-Caribbean
+sombeke,2026-08-06,Intra,gas,,QUALSHIP 21,"Texas City, Texas",True,later_filing,24.006292000000002,143,Houston-Galveston
+sapphire,2026-08-08,GulfEast,refined,212133.91,QUALSHIP 21,"Los Angeles, California",False,later_filing,28.94050613915416,145,Pacific
+harrisburg,2026-08-16,West,refined,116000.0,QUALSHIP 21,"Saint Rose, Louisiana",False,later_filing,15.825375170532059,153,Lower Mississippi
+silvermonika,2026-08-16,West,refined,298908.0,QUALSHIP 21,"Port Arthur, Texas",False,later_filing,40.77871759890859,153,Sabine-Lake Charles
+gousea,2026-08-16,West,refined,303257.0,QUALSHIP 21,"Corpus Christi, Texas",False,later_filing,41.372032742155525,153,Corpus Christi
+cech,2026-07-30,GulfEast,refined,156463.71,QUALSHIP 21,"Houston, Texas",False,later_filing,21.345663028649387,136,Houston-Galveston
+newability,2026-06-16,GulfEast,refined,365624.49,Targeted (medium),"Philadelphia, Pennsylvania",False,later_filing,49.880557980900406,92,Atlantic-Caribbean
+nordelegance,2026-05-20,Intra,refined,200375.0,Targeted (medium),St. Eustatius,False,later_filing,27.336289222373804,65,Lower Mississippi
+naviggrace,2026-06-12,PR,refined,314765.59,QUALSHIP 21,"Chalmette, Louisiana",False,later_filing,42.94209959072306,88,Lower Mississippi
+ikigai,2026-07-27,PR,refined,231215.8,Targeted (medium),"Pascagoula, Mississippi",False,later_filing,31.5437653478854,133,Lower Mississippi
+hafniaasia,2026-06-19,West,refined,363858.42,QUALSHIP 21,"New Orleans, Louisiana",False,later_filing,49.6396207366985,95,Lower Mississippi
+pacdubhe,2026-03-18,Intra,refined,,QUALSHIP 21,"New Orleans, Louisiana",False,later_filing,37.61476057298772,2,Lower Mississippi
+ploutos,2026-06-08,GulfEast,refined,188571.7,QUALSHIP 21,"Anacortes, Washington / Long Beach, California",False,later_filing,25.726016371077762,84,Pacific
+tristarjisha,2026-07-28,GulfEast,refined,301538.39,Targeted (medium),"Houston, Texas",False,later_filing,41.13757025920873,134,Houston-Galveston
+ionicastrapi,2026-07-20,GulfEast,crude,699773.353,QUALSHIP 21,"Corpus Christi, Texas",False,later_filing,95.46703315143246,126,Corpus Christi
+dahuashan,2026-07-20,PR,refined,72444.07,QUALSHIP 21,"St. Rose, Louisiana",False,later_filing,9.883229195088678,126,Lower Mississippi
+jagaanchal,2026-06-15,West,refined,360127.68,QUALSHIP 21,"St. Rose, Louisiana / Houston, Texas",False,later_filing,49.130652114597545,91,Houston-Galveston
+pmearl,2026-06-23,PR,refined,249592.24,QUALSHIP 21,"Pascagoula, Mississippi",False,later_filing,34.05078308321964,99,Lower Mississippi
+tormalexandra,2026-05-23,PR,refined,114929.38,QUALSHIP 21,"Good Hope, Louisiana",False,later_filing,15.679315143246932,68,Lower Mississippi
+chemlithium,2026-07-11,Intra,refined,93620.58,Targeted (medium),"San Francisco, California",False,later_filing,12.7722482946794,117,Pacific
+capebenateaglehamilton,2026-06-08,West,refined,600000.0,QUALSHIP 21,"New Orleans, Louisiana / Corpus Christi, Texas via M/V Cape Benat",False,later_filing,81.85538881309685,84,Corpus Christi
+sunda,2026-07-22,GulfEast,refined,220000.0,QUALSHIP 21,"Wilmington, Delaware",False,later_filing,30.013642564802183,128,Atlantic-Caribbean
+naveluminosity,2026-05-26,West,refined,160993.923,Targeted (medium),"Houston, Texas",False,later_filing,21.963700272851295,71,Houston-Galveston
+tormstrong,2026-07-27,West,refined,306642.47,QUALSHIP 21,"Houston, Texas",False,later_filing,41.833897680763975,133,Houston-Galveston
+steel,2026-05-07,GulfEast,refined,208000.0,QUALSHIP 21,"Philadelphia, Pennsylvania",False,later_filing,28.376534788540244,52,Atlantic-Caribbean
+rebeccaschulte,2026-07-07,West,refined,160000.0,QUALSHIP 21,"Chalmette, Louisiana",False,later_filing,21.828103683492497,113,Lower Mississippi
+seawayskolberg,2026-04-27,Intra,refined,49902.87,QUALSHIP 21,"Houston, Texas",False,later_filing,6.808031377899046,42,Houston-Galveston
+solomos,2026-07-03,Intra,refined,83372.46,QUALSHIP 21,"Port Angeles, Washington",False,later_filing,11.374141882673943,109,Pacific
+trouvaille,2026-06-29,GulfEast,refined,299112.44,Targeted (medium),"Beaumont, Texas",False,later_filing,40.80660845839017,105,Sabine-Lake Charles
+pintailpacific,2026-06-16,West,refined,309345.0,QUALSHIP 21,"Houston, Texas",False,later_filing,42.20259208731241,92,Houston-Galveston
+mvmosselbay,2026-07-09,West,refined,307677.75,QUALSHIP 21,"Houston, Texas",False,later_filing,41.975136425648024,115,Houston-Galveston
+tablebay,2026-06-05,West,refined,176333.67,QUALSHIP 21,"Houston, Texas",False,later_filing,24.05643519781719,81,Houston-Galveston
+clemilybronte,2026-08-10,GulfEast,refined,307046.4,Targeted (medium),"Beaumont, Texas",False,later_filing,41.88900409276944,147,Sabine-Lake Charles
+montetamaro,2026-08-10,GulfEast,refined,303600.0,Targeted (medium),"Philadelphia, Pennsylvania",False,later_filing,41.41882673942702,147,Atlantic-Caribbean
+stenaimperator,2026-06-05,West,refined,315229.35,QUALSHIP 21,"Houston, Texas",False,later_filing,43.00536834924966,81,Houston-Galveston

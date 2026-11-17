@@ -1,0 +1,195 @@
+vessel,flag_tier,vessel_type,voyages,kmax,vessel_tier,vessel_clean,psix_id,imo,psc_exams_3y,detentions_3y,deficiencies_3y,flag_green
+Advantage Porto Cervo,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1550941.0,9794850.0,2.0,0.0,0.0,True
+Advantage Portofino,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1543557.0,9794836.0,2.0,0.0,0.0,True
+Aegean C,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1873335.0,1019773.0,1.0,0.0,0.0,False
+Alejandro B,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,904470.0,9328285.0,4.0,0.0,3.0,False
+Amasya,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1411511.0,9747326.0,4.0,0.0,5.0,True
+Amazon Falcon,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1424077.0,9779587.0,3.0,0.0,0.0,True
+Anael,Targeted (medium),Tank vessel,1,0.8,Amber (no PSC exam),False,892108.0,9360427.0,0.0,0.0,0.0,False
+Anatolia,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,994293.0,9388003.0,1.0,0.0,0.0,False
+Antalya,QUALSHIP 21,Tank vessel,2,1.0,Green (clean PSC record),True,1415503.0,9747338.0,2.0,0.0,1.0,True
+Aqualegend,Targeted (medium),Tank vessel,2,0.8,Green (clean PSC record),True,1164053.0,9592240.0,3.0,0.0,4.0,False
+Archangel Gabriel,Targeted (medium),Tank vessel,1,0.8,Amber (no PSC exam),False,1107999.0,9389978.0,0.0,0.0,0.0,False
+Arctic Star,QUALSHIP 21,Tank vessel,2,0.8,Amber (no PSC exam),False,1890452.0,9978690.0,0.0,0.0,0.0,True
+Asp Maple,Targeted (medium),Tank vessel,1,0.8,Amber (no PSC exam),False,1903521.0,1078884.0,0.0,0.0,0.0,False
+Asp Sunshine,Targeted (medium),Tank vessel,1,1.0,Amber (no PSC exam),False,1901746.0,1071410.0,0.0,0.0,0.0,False
+Atlantic Marble,QUALSHIP 21,Tank vessel,3,0.8,Green (clean PSC record),True,1491606.0,9798959.0,3.0,0.0,0.0,True
+Atlantic Rainbow,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1849580.0,9993808.0,2.0,0.0,0.0,True
+Atlantic Rosa,QUALSHIP 21,Tank vessel,1,0.8,Amber (no PSC exam),False,1869935.0,9993860.0,0.0,0.0,0.0,True
+Atlantic Sunshine,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1868658.0,9993810.0,1.0,0.0,0.0,True
+Bantra Bay,QUALSHIP 21,Tank vessel,1,0.8,Amber (not matched),False,,,,,,True
+Blue Sky,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1092048.0,9413016.0,1.0,0.0,0.0,False
+Bow Elm,QUALSHIP 21,Tank vessel,2,1.0,Green (clean PSC record),True,1128750.0,9388302.0,2.0,0.0,1.0,True
+Bow Erikson,Targeted (medium),Tank vessel,1,0.8,Amber (no PSC exam),False,1902872.0,1039864.0,0.0,0.0,0.0,False
+Cabo Deseado,QUALSHIP 21,Tank vessel,3,0.8,Green (clean PSC record),True,1100830.0,9456915.0,4.0,0.0,1.0,True
+Cap Port Arthur,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1516835.0,9829801.0,3.0,0.0,0.0,True
+Cetus Tiger,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1274239.0,9606003.0,1.0,0.0,0.0,True
+Champagny,QUALSHIP 21,Gas carrier,1,1.0,Green (clean PSC record),True,1854589.0,9983499.0,2.0,0.0,2.0,True
+Chem Lithium,Targeted (medium),Tank vessel,5,0.8,Amber (no PSC exam),False,1477107.0,9815252.0,0.0,0.0,0.0,False
+Chemtrans Mobile,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1391078.0,9732802.0,1.0,0.0,0.0,True
+Chip,QUALSHIP 21,Tank vessel,5,0.8,Green (clean PSC record),True,1372016.0,9707871.0,3.0,0.0,0.0,True
+Chrysopigi Lady,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1803116.0,9936537.0,3.0,0.0,0.0,True
+Citrine,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1345421.0,9746229.0,1.0,0.0,0.0,True
+Clearocean Fuku,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1056053.0,9407287.0,3.0,0.0,3.0,True
+Clearocean Ginkgo,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1697016.0,9916604.0,3.0,0.0,0.0,True
+Clearocean Mesquite,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1733187.0,9919163.0,3.0,0.0,2.0,False
+Clipper Posh/M/V Active,QUALSHIP 21,Gas carrier,1,1.0,Amber (not matched),False,,,,,,True
+Cs Fujairah,QUALSHIP 21,Tank vessel,1,0.8,Amber (no PSC exam),False,1898786.0,1073705.0,0.0,0.0,0.0,True
+Da Ming Shan,QUALSHIP 21,Tank vessel,2,0.8,Green (clean PSC record),True,1429170.0,9779745.0,3.0,0.0,1.0,True
+Dat Mercury,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1758479.0,9948281.0,2.0,0.0,0.0,True
+Dat Venus,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1765880.0,9948293.0,3.0,0.0,0.0,True
+Dee4 Juniper,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1723049.0,9930923.0,3.0,0.0,0.0,False
+Dion,QUALSHIP 21,Tank vessel,4,0.8,Green (clean PSC record),True,1901285.0,1043102.0,1.0,0.0,0.0,True
+Dominator L/Mv. Active,Targeted (medium),Gas carrier,1,0.8,Amber (not matched),False,,,,,,False
+Doric Courage,Targeted (medium),Tank vessel,1,0.8,Amber (control imposed),False,1566419.0,9847451.0,2.0,0.0,1.0,False
+Dubai Diamond,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,952955.0,9314181.0,2.0,0.0,0.0,True
+Eagle Hamilton,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1090888.0,9426207.0,4.0,0.0,0.0,True
+Echo Joshua Park,QUALSHIP 21,Tank vessel,1,1.0,Amber (not matched),False,,,,,,True
+Eco Joshua Park,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1610166.0,9877585.0,2.0,0.0,0.0,True
+Eco Marina Del Rey,QUALSHIP 21,Tank vessel,1,1.0,Amber (not matched),False,,,,,,True
+Ecomar Garonne,QUALSHIP 21,Tank vessel,1,1.0,Amber (no PSC exam),False,1889039.0,1029285.0,0.0,0.0,0.0,True
+Energy Ariadne,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1659588.0,9906087.0,3.0,0.0,0.0,True
+Energy Artemis,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1710475.0,9928750.0,1.0,0.0,1.0,True
+Energy Centaur,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,983680.0,9387281.0,2.0,0.0,0.0,True
+Eternity,Targeted (medium),Tank vessel,2,0.8,Green (clean PSC record),True,1893915.0,1045693.0,1.0,0.0,0.0,False
+Forever Prosperity,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1518851.0,9796937.0,1.0,0.0,0.0,True
+Four Wind,QUALSHIP 21,Tank vessel,4,0.8,Amber (control imposed),False,1112552.0,9419553.0,4.0,0.0,1.0,True
+Frankopan,Not listed,Tank vessel,2,0.8,Green (clean PSC record),True,1476663.0,9796731.0,3.0,0.0,1.0,False
+Freeport Star,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1766757.0,9933212.0,3.0,0.0,0.0,True
+Front Altair,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1414040.0,9745902.0,1.0,0.0,0.0,True
+Garnet Express,QUALSHIP 21,Tank vessel,3,1.0,Green (clean PSC record),True,1257626.0,9609639.0,5.0,0.0,1.0,True
+Gem Turquois,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1255595.0,9645774.0,2.0,0.0,0.0,True
+Gem Turquoise,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1255595.0,9645774.0,2.0,0.0,0.0,True
+Globe Frontier,Targeted (medium),Gas carrier,1,0.8,Green (clean PSC record),True,1810848.0,9944986.0,1.0,0.0,0.0,False
+Goldengate Park,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1253903.0,9493145.0,2.0,0.0,0.0,False
+Grand Lamda,QUALSHIP 21,Tank vessel,1,0.8,Amber (not matched),False,,,,,,True
+Green Energy,QUALSHIP 21,Gas carrier,3,1.0,Green (clean PSC record),True,1758543.0,9925667.0,2.0,0.0,0.0,True
+Green Planet,Targeted (medium),Tank vessel,1,1.0,Green (clean PSC record),True,1278671.0,9669914.0,2.0,0.0,2.0,False
+Gulf Muttrah,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1103352.0,9381835.0,2.0,0.0,0.0,True
+Hafnia Andrea,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1331906.0,9688415.0,2.0,0.0,0.0,True
+Hafnia Crux,QUALSHIP 21,Tank vessel,1,1.0,Amber (not matched),False,,,,,,True
+Hafnia Daisy,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1407587.0,9709788.0,5.0,0.0,2.0,True
+Hafnia Egret,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1322863.0,9607174.0,2.0,0.0,0.0,True
+Hafnia Hawk,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1344138.0,9607198.0,2.0,0.0,1.0,True
+Hafnia Kallang,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1430014.0,9766190.0,2.0,0.0,0.0,True
+Hafnia Violette,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1329843.0,9690626.0,1.0,0.0,0.0,True
+Harrisburg,QUALSHIP 21,Tank vessel,2,0.8,Green (clean PSC record),True,1643577.0,9859210.0,2.0,0.0,0.0,True
+Hellas Marianna,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1492609.0,9798076.0,2.0,0.0,0.0,True
+High Leader,Targeted (medium),Tank vessel,1,1.0,Green (clean PSC record),True,1517130.0,9814155.0,4.0,0.0,1.0,False
+High Trust,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1374225.0,9696254.0,2.0,0.0,0.0,False
+Hovden Spirit,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1216858.0,9596997.0,3.0,0.0,0.0,True
+Htm Warrior,QUALSHIP 21,Tank vessel,2,0.8,Green (clean PSC record),True,1065131.0,9399911.0,1.0,0.0,0.0,True
+Indianapolis/Mv. Active,Targeted (medium),Gas carrier,1,0.8,Amber (not matched),False,,,,,,False
+Ionic Astrapi,QUALSHIP 21,Tank vessel,3,0.8,Green (clean PSC record),True,1543617.0,9529346.0,3.0,0.0,1.0,True
+Ipanema Street,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1057074.0,9402770.0,3.0,0.0,0.0,False
+Isla De Bioko,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1389840.0,9767235.0,2.0,0.0,0.0,False
+Ithaca Gas,Targeted (medium),Gas carrier,1,0.8,Green (clean PSC record),True,1857664.0,9987550.0,1.0,0.0,0.0,False
+Jal Dhvani,QUALSHIP 21,Tank vessel,1,0.8,Amber (no PSC exam),False,1902039.0,1021180.0,0.0,0.0,0.0,True
+Jin Zhou Wan,Targeted (medium),Tank vessel,2,0.8,Green (clean PSC record),True,1503571.0,9802580.0,3.0,0.0,1.0,False
+King Fisher,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1541743.0,9556038.0,2.0,0.0,0.0,True
+Kodkod,Targeted (medium),Tank vessel,1,0.8,Amber (no PSC exam),False,1907298.0,1018949.0,0.0,0.0,0.0,False
+Lavraki,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,904667.0,9323077.0,3.0,0.0,0.0,True
+Margaret Mitchell,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1816551.0,9943372.0,1.0,0.0,0.0,False
+Marina M,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1762238.0,9952610.0,2.0,0.0,0.0,True
+Marlin Aventurine,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1379684.0,9721918.0,2.0,0.0,0.0,True
+Mindoro Star,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1051784.0,9441207.0,2.0,0.0,0.0,True
+Monte Tamaro,Targeted (medium),Tank vessel,1,1.0,Amber (control imposed),False,1001346.0,9393096.0,3.0,1.0,14.0,False
+Mossel Bay,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1816214.0,9970375.0,2.0,0.0,0.0,True
+Mtm Dublin,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,912607.0,9335824.0,3.0,0.0,1.0,True
+Mtm Key West,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1611353.0,9790672.0,2.0,0.0,0.0,True
+Mustang,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1645848.0,9893761.0,2.0,0.0,0.0,False
+Nakhal Silver,QUALSHIP 21,Tank vessel,3,0.8,Green (clean PSC record),True,1384019.0,9718765.0,1.0,0.0,0.0,True
+Nave Cetus,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1221712.0,9589944.0,2.0,0.0,0.0,False
+Nave Jupiter,QUALSHIP 21,Tank vessel,2,1.0,Green (clean PSC record),True,1293142.0,9657038.0,3.0,0.0,0.0,True
+Nave Perseus,Targeted (medium),Tank vessel,2,0.8,Amber (no PSC exam),False,1876090.0,9993896.0,0.0,0.0,0.0,False
+Nave Velocity,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1333273.0,9657052.0,3.0,0.0,0.0,True
+Navig8 Gladiator,QUALSHIP 21,Tank vessel,1,1.0,Amber (no PSC exam),False,1595493.0,9853230.0,0.0,0.0,0.0,True
+Navig8 Grace,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1549765.0,9833656.0,3.0,0.0,0.0,True
+Nord Vision,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1656505.0,9899985.0,1.0,0.0,0.0,True
+Nordic Ami,Targeted (medium),Tank vessel,2,0.8,Green (clean PSC record),True,1545184.0,9800051.0,3.0,0.0,1.0,False
+Obsidian,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1371381.0,9746231.0,3.0,0.0,0.0,True
+Occitan Listrac,QUALSHIP 21,Dry bulk,1,0.8,Amber (no PSC exam),False,1052346.0,9549372.0,0.0,0.0,0.0,True
+Octonaut,QUALSHIP 21,Tank vessel,1,0.8,Amber (no PSC exam),False,927716.0,9340477.0,0.0,0.0,0.0,True
+Oinoussian Star,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1536648.0,9827578.0,2.0,0.0,0.0,True
+Ontario,Targeted (medium),Gas carrier,2,1.0,Green (clean PSC record),True,1430512.0,9744831.0,2.0,0.0,0.0,False
+Orange Stars,QUALSHIP 21,Tank vessel,1,0.8,Amber (no PSC exam),False,1153067.0,9433597.0,0.0,0.0,0.0,True
+Orvis Viktoria,Targeted (medium),Tank vessel,1,1.0,Amber (not matched),False,,,,,,False
+Outrider,Targeted (medium),Gas carrier,1,1.0,Green (clean PSC record),True,1416134.0,9701061.0,2.0,0.0,1.0,False
+P. Marseille,QUALSHIP 21,Tank vessel,1,0.8,Amber (no PSC exam),False,1901211.0,1057218.0,0.0,0.0,0.0,True
+Pacific Blue,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1603547.0,9867798.0,2.0,0.0,0.0,False
+Pacific Era,Targeted (medium),Tank vessel,1,1.0,Green (clean PSC record),True,1059205.0,9397781.0,1.0,0.0,1.0,False
+Pacific Kohinoor,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1705796.0,9800661.0,3.0,0.0,0.0,False
+Pascagoula Voyager,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1540557.0,9827700.0,2.0,0.0,0.0,True
+Pegasus Voyager,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1307377.0,9665736.0,3.0,0.0,0.0,True
+Pelican Pacific,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1609469.0,9876385.0,3.0,0.0,0.0,True
+Penelope,QUALSHIP 21,Tank vessel,2,0.8,Green (clean PSC record),True,1778485.0,9941726.0,2.0,0.0,0.0,True
+Petrel Pacific,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1610488.0,9876397.0,2.0,0.0,0.0,True
+Phaedra,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1867365.0,9989091.0,1.0,0.0,0.0,True
+Pheasant,QUALSHIP 21,Tank vessel,1,0.8,Amber (no PSC exam),False,1854285.0,9986049.0,0.0,0.0,0.0,True
+Polaris Voyager,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1322294.0,9665748.0,4.0,0.0,0.0,True
+Port Amalfi,QUALSHIP 21,Tank vessel,2,1.0,Amber (no PSC exam),False,1052869.0,9344019.0,0.0,0.0,0.0,True
+Precious Adelaide,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1850033.0,9982548.0,1.0,0.0,0.0,False
+Puffin Pacific,QUALSHIP 21,Tank vessel,2,0.8,Green (clean PSC record),True,1616251.0,9876402.0,2.0,0.0,0.0,True
+Pysix Theta,QUALSHIP 21,Tank vessel,1,0.8,Amber (not matched),False,,,,,,True
+Pyxis Lamda,QUALSHIP 21,Tank vessel,2,1.0,Green (clean PSC record),True,1432150.0,9708772.0,4.0,0.0,2.0,True
+Pyxis Theta,QUALSHIP 21,Tank vessel,2,0.8,Green (clean PSC record),True,1267229.0,9657064.0,3.0,0.0,0.0,True
+Queen Zenobia,Targeted (medium),Gas carrier,1,1.0,Green (clean PSC record),True,765426.0,9256535.0,1.0,0.0,1.0,False
+Rawan,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1643852.0,9845104.0,2.0,0.0,0.0,True
+Red Moon,Targeted (medium),Tank vessel,1,0.6,Green (clean PSC record),True,1217278.0,9590307.0,2.0,0.0,0.0,False
+Rio Fyn,Targeted (medium),Gas carrier,1,1.0,Green (clean PSC record),True,1116607.0,9400356.0,2.0,0.0,1.0,False
+Rustaq Silver,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1378037.0,9718753.0,1.0,0.0,1.0,True
+Scot Bayern,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1142328.0,9255828.0,2.0,0.0,0.0,True
+Scott Nuernberg,QUALSHIP 21,Tank vessel,1,0.8,Amber (not matched),False,,,,,,True
+Searhythm,QUALSHIP 21,Tank vessel,2,0.8,Green (clean PSC record),True,1653105.0,9880350.0,3.0,0.0,0.0,True
+Seasprite,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1346098.0,9711468.0,2.0,0.0,0.0,True
+Seavictory,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1066548.0,9315783.0,1.0,0.0,0.0,True
+Seaways Rio Grande,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1205204.0,9593438.0,3.0,0.0,0.0,True
+Seaways Samar,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1114867.0,9470284.0,2.0,0.0,0.0,True
+Seychelles Patriot,Not listed,Tank vessel,1,0.8,Amber (no PSC exam),False,950689.0,9365635.0,0.0,0.0,0.0,False
+Sfl Sabine,QUALSHIP 21,Tank vessel,3,0.8,Green (clean PSC record),True,1473942.0,9799874.0,3.0,0.0,0.0,True
+Sfl Trinity,QUALSHIP 21,Tank vessel,3,0.8,Green (clean PSC record),True,1473943.0,9799862.0,3.0,0.0,0.0,True
+Silver Ebalina,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1364065.0,9692351.0,2.0,0.0,2.0,True
+Silver Eburna,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1379141.0,9718416.0,3.0,0.0,0.0,True
+Silver Euplicta,QUALSHIP 21,Tank vessel,1,1.0,Amber (not matched),False,,,,,,True
+Silver Joan,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1426841.0,9718894.0,2.0,0.0,0.0,True
+Silver Moon,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1855260.0,1018872.0,1.0,0.0,1.0,True
+Silver Muna,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1395171.0,9718856.0,3.0,0.0,1.0,True
+Silver Zoe,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1339893.0,9692325.0,5.0,0.0,2.0,True
+Skylight,QUALSHIP 21,Tank vessel,1,0.8,Amber (no PSC exam),False,986445.0,9396737.0,0.0,0.0,0.0,True
+Solar Claire,QUALSHIP 21,Tank vessel,2,0.8,Green (clean PSC record),True,1636974.0,9882425.0,3.0,0.0,0.0,True
+Solar Melissa,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1621408.0,9882401.0,3.0,0.0,0.0,False
+Solar Ruo Yun,Targeted (medium),Tank vessel,1,1.0,Green (clean PSC record),True,1713580.0,9907811.0,2.0,0.0,0.0,False
+Solar Sally,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1774951.0,9898498.0,2.0,0.0,1.0,False
+Solar Time,Targeted (medium),Tank vessel,1,1.0,Amber (not matched),False,,,,,,False
+Sombeke,QUALSHIP 21,Gas carrier,1,1.0,Green (clean PSC record),True,867242.0,9292113.0,3.0,0.0,0.0,True
+Stena Image,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1345935.0,9667473.0,2.0,0.0,0.0,True
+Stena Imperator,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1476556.0,9797383.0,2.0,0.0,0.0,True
+Stena Imperial,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1358384.0,9667485.0,2.0,0.0,0.0,True
+Stenheim,Targeted (medium),Tank vessel,2,0.6,Green (clean PSC record),True,1810291.0,9261114.0,3.0,0.0,3.0,False
+Sti Millennia,QUALSHIP 21,Tank vessel,2,0.8,Green (clean PSC record),True,1551149.0,9829497.0,3.0,0.0,0.0,True
+Sti Mystery,QUALSHIP 21,Tank vessel,1,1.0,Amber (control imposed),False,1543369.0,9829461.0,3.0,0.0,1.0,True
+Sti Pontiac,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1334019.0,9704465.0,3.0,0.0,0.0,True
+Sti Regina,QUALSHIP 21,Tank vessel,1,1.0,Amber (not matched),False,,,,,,True
+T Clever,Targeted (medium),Dry bulk,2,0.8,Green (clean PSC record),True,1329806.0,9606039.0,4.0,0.0,0.0,False
+The Chief,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1262833.0,9492361.0,1.0,0.0,0.0,True
+Tom Diwata,QUALSHIP 21,Tank vessel,1,0.8,Amber (not matched),False,,,,,,True
+Top Ocean,Targeted (medium),Tank vessel,1,1.0,Green (clean PSC record),True,1901262.0,1076513.0,1.0,0.0,2.0,False
+Torm Agnes,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1106624.0,9465992.0,1.0,0.0,0.0,True
+Torm Agnete,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1101623.0,9466013.0,3.0,0.0,0.0,True
+Torm Daphne,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1333857.0,9692313.0,2.0,0.0,1.0,True
+Torm Diana,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1379490.0,9702223.0,1.0,0.0,0.0,True
+Torm Hilde,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1538042.0,9798014.0,1.0,0.0,0.0,True
+Tripiti,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1881102.0,1021922.0,1.0,0.0,0.0,False
+Tristar Jisha,Targeted (medium),Tank vessel,1,0.8,Amber (not matched),False,,,,,,False
+Trouvaille,Targeted (medium),Tank vessel,1,1.0,Green (clean PSC record),True,1860086.0,9939632.0,1.0,0.0,0.0,False
+Uog Ioannis V,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1099583.0,9485629.0,1.0,0.0,0.0,True
+Uog Korthi,QUALSHIP 21,Tank vessel,1,0.8,Amber (no PSC exam),False,1062756.0,9458808.0,0.0,0.0,0.0,True
+Valle Sole,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1490963.0,9635781.0,2.0,0.0,0.0,True
+Velocity,Targeted (medium),Tank vessel,2,0.8,Green (clean PSC record),True,1893923.0,1045710.0,1.0,0.0,0.0,False
+Vs Promise,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1101630.0,9351438.0,1.0,0.0,0.0,True
+Weco Memphis Belle,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1880590.0,1041453.0,1.0,0.0,0.0,True
+Weco Senna,QUALSHIP 21,Tank vessel,1,1.0,Green (clean PSC record),True,1880589.0,1041465.0,1.0,0.0,0.0,True
+Yamato Spirit,QUALSHIP 21,Tank vessel,1,0.8,Green (clean PSC record),True,1329110.0,9414503.0,2.0,0.0,0.0,True
+Yokosuka Spirit,Targeted (medium),Tank vessel,1,0.8,Green (clean PSC record),True,1763880.0,9932402.0,2.0,0.0,0.0,False
+Yukon,Targeted (medium),Gas carrier,2,1.0,Green (clean PSC record),True,1603188.0,9852145.0,2.0,0.0,0.0,False
+Zea Lilian,Targeted (medium),Tank vessel,1,0.8,Amber (no PSC exam),False,1901576.0,9318228.0,0.0,0.0,0.0,False
